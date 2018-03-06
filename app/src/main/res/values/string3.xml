@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<string name="ssloka3001">अर्जुन उवाच\n
+ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\n
+तत्किं कर्मणि घोरे मां नियोजयसि केशव ॥१॥</string>
+
+
+    <string name="ssloka3002">व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\n
+तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥२॥</string>
+
+    <string name="ssloka3003">श्रीभगवानुवाच\n
+लोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ ।\n
+ज्ञानयोगेन सांख्यानां कर्मयोगेन योगिनाम् ॥३॥</string>
+
+    <string name="ssloka3004">न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते ।\n
+न च संन्यसनादेव सिद्धिं समधिगच्छति ॥४॥</string>
+
+    <string name="ssloka3005">न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् ।\n
+कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ॥५॥</string>
+
+    <string name="ssloka3006">कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् ।\n
+इन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते ॥६॥</string>
+
+    <string name="ssloka3007">यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन ।\n
+कर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते ॥ ७॥</string>
+
+    <string name="ssloka3008">नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः ।\n
+शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः ॥८॥</string>
+
+
+    <string name="ssloka3009">यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः ।\n
+तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ॥९॥</string>
+
+    <string name="ssloka3010">सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः ।\n
+अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ॥१०॥</string>
+
+    <string name="ssloka3011">देवान्भावयतानेन ते देवा भावयन्तु वः ।\n
+परस्परं भावयन्तः श्रेयः परमवाप्स्यथ ॥११॥</string>
+
+    <string name="ssloka3012">इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः ।\n
+तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ॥१२॥</string>
+
+    <string name="ssloka3013">यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः ।\n
+भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ॥ १३॥</string>
+
+    <string name="ssloka3014">>अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः ।\n
+यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः ॥४॥</string>
+
+    <string name="ssloka3015">कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् ।\n
+तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् ॥५॥</string>
+
+    <string name="ssloka3016">एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः ।\n
+अघायुरिन्द्रियारामो मोघं पार्थ स जीवति ॥१६॥</string>
+
+    <string name="ssloka3017">यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः ।\n
+आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते ॥१७॥</string>
+
+    <string name="ssloka3018">नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन ।\n
+न चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः ॥१८॥</string>
+
+    <string name="ssloka3019">तस्मादसक्तः सततं कार्यं कर्म समाचर ।\n
+असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ॥१९॥</string>
+
+    <string name="ssloka3020">कर्मणैव हि संसिद्धिमास्थिता जनकादयः ।\n
+लोकसंग्रहमेवापि संपश्यन्कर्तुमर्हसि ॥२०॥</string>
+
+    <string name="ssloka3021">यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।\n
+स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ॥२१॥</string>
+
+    <string name="ssloka3022">न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किंचन ।\n
+नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ॥२२॥</string>
+
+    <string name="ssloka3023">यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः ।\n
+मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥२३॥</string>
+
+    <string name="ssloka3024">उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् ।\n
+संकरस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ॥२४॥</string>
+
+    <string name="ssloka3025">सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत ।\n
+कुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम् ॥२५॥</string>
+
+    <string name="ssloka3026">न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् ।\n
+जोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन् ॥२६॥</string>
+
+    <string name="ssloka3027">प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः ।\n
+अहंकारविमूढात्मा कर्ताहमिति मन्यते ॥२७॥</string>
+
+    <string name="ssloka3028">तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः ।\n
+गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ॥२८॥</string>
+
+    <string name="ssloka3029">प्रकृतेर्गुणसंमूढाः सज्जन्ते गुणकर्मसु ।\n
+तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ॥२९॥</string>
+
+    <string name="ssloka3030">मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा ।\n
+निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ॥३०॥</string>
+
+    <string name="ssloka3031">ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः ।\n
+श्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः ॥३१॥</string>
+
+    <string name="ssloka3032">ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् ।\n
+सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः ॥३२॥</string>
+
+    <string name="ssloka3033">सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि ।\n
+प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ॥३३॥</string>
+
+    <string name="ssloka3034">इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ ।\n
+तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ ॥३४॥</string>
+
+    <string name="ssloka3035">श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।\n
+स्वधर्मे निधनं श्रेयः परधर्मो भयावहः ॥३५॥</string>
+
+    <string name="ssloka3036">अर्जुन उवाच\n
+अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः ।\n
+अनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः ॥३६॥</string>
+
+    <string name="ssloka3037">श्रीभगवानुवाच\n
+काम एष क्रोध एष रजोगुणसमुद्भवः ।\n
+महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ॥३७॥</string>
+
+    <string name="ssloka3038">धूमेनाव्रियते वह्निर्यथादर्शो मलेन च ।\n
+यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् ॥३८॥</string>
+
+    <string name="ssloka3039">आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा ।\n
+कामरूपेण कौन्तेय दुष्पूरेणानलेन च ॥३९॥</string>
+
+    <string name="ssloka3040">इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते ।\n
+एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ॥४०॥</string>
+
+    <string name="ssloka3041">तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ ।\n
+पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ॥४१॥</string>
+
+    <string name="ssloka3042">इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः ।\n
+मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः ॥४२॥</string>
+
+    <string name="ssloka3043">एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना ।\n
+जहि शत्रुं महाबाहो कामरूपं दुरासदम् ॥४३॥</string>
+
+
+
+
+
+
+    <string name="esloka3001">arjuna uvāca\n
+
+jyāyasī cet karmaṇas te\n
+
+matā buddhir janārdana\n
+
+tat kiḿ karmaṇi ghore māḿ\n
+
+niyojayasi keśava</string>
+
+
+    <string name="esloka3002">vyāmiśreṇeva vākyena\n
+
+buddhiḿ mohayasīva me\n
+
+tad ekaḿ vada niścitya\n
+
+yena śreyo \'ham āpnuyām</string>
+
+    <string name="esloka3003">śrī-bhagavān uvāca\n
+
+loke \'smin dvi-vidhā niṣṭhā\n
+
+purā proktā mayānagha\n
+
+jñāna-yogena sāńkhyānāḿ\n
+
+karma-yogena yoginām</string>
+
+    <string name="esloka3004">na karmaṇām anārambhān\n
+
+naiṣkarmyaḿ puruṣo \'śnute\n
+
+na ca sannyasanād eva\n
+
+siddhiḿ samadhigacchati</string>
+
+    <string name="esloka3005">na hi kaścit kṣaṇam api\n
+
+jātu tiṣṭhaty akarma-kṛt\n
+
+kāryate hy avaśaḥ karma\n
+
+sarvaḥ prakṛti-jair guṇaiḥ</string>
+
+    <string name="esloka3006">karmendriyāṇi saḿyamya\n
+
+ya āste manasā smaran\n
+
+indriyārthān vimūḍhātmā\n
+
+mithyācāraḥ sa ucyate</string>
+
+    <string name="esloka3007">yas tv indriyāṇi manasā\n
+
+niyamyārabhate \'rjuna\n
+
+karmendriyaiḥ karma-yogam\n
+
+asaktaḥ sa viśiṣyate</string>
+
+    <string name="esloka3008">niyataḿ kuru karma tvaḿ\n
+
+karma jyāyo hy akarmaṇaḥ\n
+
+śarīra-yātrāpi ca te\n
+
+na prasiddhyed akarmaṇaḥ</string>
+
+
+    <string name="esloka3009">yajñārthāt karmaṇo \'nyatra\n
+
+loko \'yaḿ karma-bandhanaḥ\n
+
+tad-arthaḿ karma kaunteya\n
+
+mukta-sańgaḥ samācara</string>
+
+    <string name="esloka3010">aha-yajñāḥ prajāḥ sṛṣṭvā\n
+
+purovāca prajāpatiḥ\n
+
+anena prasaviṣyadhvam\n
+
+eṣa vo \'stv iṣṭa-kāma-dhuk</string>
+
+    <string name="esloka3011">devān bhāvayatānena\n
+
+te devā bhāvayantu vaḥ\n
+
+parasparaḿ bhāvayantaḥ\n
+
+śreyaḥ param avāpsyatha</string>
+
+    <string name="esloka3012">iṣṭān bhogān hi vo devā\n
+
+dāsyante yajña-bhāvitāḥ\n
+
+tair dattān apradāyaibhyo\n
+
+yo bhuńkte stena eva saḥ</string>
+
+    <string name="esloka3013">yajña-śiṣṭāśinaḥ santo\n
+
+mucyante sarva-kilbiṣaiḥ\n
+
+bhuñjate te tv aghaḿ pāpā\n
+
+ye pacanty ātma-kāraṇāt</string>
+
+    <string name="esloka3014">annād bhavanti bhūtāni\n
+
+parjanyād anna-sambhavaḥ\n
+
+yajñād bhavati parjanyo\n
+
+yajñaḥ karma-samudbhavaḥ</string>
+
+    <string name="esloka3015">karma brahmodbhavaḿ viddhi\n
+
+brahmākṣara-samudbhavam\n
+
+tasmāt sarva-gataḿ brahma\n
+
+nityaḿ yajñe pratiṣṭhitam</string>
+
+    <string name="esloka3016">evaḿ pravartitaḿ cakraḿ\n
+
+nānuvartayatīha yaḥ\n
+
+aghāyur indriyārāmo\n
+
+moghaḿ pārtha sa jīvati</string>
+
+    <string name="esloka3017">yas tv ātma-ratir eva syād\n
+
+ātma-tṛptaś ca mānavaḥ\n
+
+ātmany eva ca santuṣṭas\n
+
+tasya kāryaḿ na vidyate</string>
+
+    <string name="esloka3018">naiva tasya kṛtenārtho\n
+
+nākṛteneha kaścana\n
+
+na cāsya sarva-bhūteṣu\n
+
+kaścid artha-vyapāśrayaḥ</string>
+
+    <string name="esloka3019">tasmād asaktaḥ satataḿ\n
+
+kāryaḿ karma samācara\n
+
+asakto hy ācaran karma\n
+
+param āpnoti pūruṣaḥ\n
+</string>
+
+    <string name="esloka3020">karmaṇaiva hi saḿsiddhim\n
+
+āsthitā janakādayaḥ\n
+
+loka-sańgraham evāpi\n
+
+sampaśyan kartum arhasi</string>
+
+    <string name="esloka3021">yad yad ācarati śreṣṭhas\n
+
+tat tad evetaro janaḥ\n
+
+sa yat pramāṇaḿ kurute\n
+
+lokas tad anuvartate</string>
+
+    <string name="esloka3022">na me pārthāsti kartavyaḿ\n
+
+triṣu lokeṣu kiñcana\n
+
+nānavāptam avāptavyaḿ\n
+
+varta eva ca karmaṇi</string>
+
+    <string name="esloka3023">yadi hy ahaḿ na varteyaḿ\n
+
+jātu karmaṇy atandritaḥ\n
+
+mama vartmānuvartante\n
+
+manuṣyāḥ pārtha sarvaśaḥ</string>
+
+    <string name="esloka3024">utsīdeyur ime lokā\n
+
+na kuryāḿ karma ced aham\n
+
+sańkarasya ca kartā syām\n
+
+upahanyām imāḥ prajāḥ</string>
+
+    <string name="esloka3025">saktāḥ karmaṇy avidvāḿso\n
+
+yathā kurvanti bhārata\n
+
+kuryād vidvāḿs tathāsaktaś\n
+
+cikīrṣur loka-sańgraham</string>
+
+    <string name="esloka3026">na buddhi-bhedaḿ janayed\n
+
+ajñānāḿ karma-sańginām\n
+
+joṣayet sarva-karmāṇi\n
+
+vidvān yuktaḥ samācaran</string>
+
+    <string name="esloka3027">prakṛteḥ kriyamāṇāni\n
+
+guṇaiḥ karmāṇi sarvaśaḥ\n
+
+ahańkāra-vimūḍhātmā\n
+
+kartāham iti manyate</string>
+
+    <string name="esloka3028">tattva-vit tu mahā-bāho\n
+
+guṇa-karma-vibhāgayoḥ\n
+
+guṇā guṇeṣu vartanta\n
+
+iti matvā na sajjate</string>
+
+    <string name="esloka3029">prakṛter guṇa-sammūḍhāḥ\n
+
+sajjante guṇa-karmasu\n
+
+tān akṛtsna-vido mandān\n
+
+kṛtsna-vin na vicālayet</string>
+
+    <string name="esloka3030">mayi sarvāṇi karmāṇi\n
+
+sannyasyādhyātma-cetasā\n
+
+nirāśīr nirmamo bhūtvā\n
+
+yudhyasva vigata-jvaraḥ</string>
+
+    <string name="esloka3031">ye me matam idaḿ nityam\n
+
+anutiṣṭhanti mānavāḥ\n
+
+śraddhāvanto \'nasūyanto\n
+
+mucyante te \'pi karmabhiḥ</string>
+
+    <string name="esloka3032">ye tv etad abhyasūyanto\n
+
+nānutiṣṭhanti me matam\n
+
+sarva-jñāna-vimūḍhāḿs tān\n
+
+viddhi naṣṭān acetasaḥ</string>
+
+    <string name="esloka3033">sadṛśaḿ ceṣṭate svasyāḥ\n
+
+prakṛter jñānavān api\n
+
+prakṛtiḿ yānti bhūtāni\n
+
+nigrahaḥ kiḿ kariṣyati</string>
+
+    <string name="esloka3034">indriyasyendriyasyārthe\n
+
+rāga-dveṣau vyavasthitau\n
+
+tayor na vaśam āgacchet\n
+
+tau hy asya paripanthinau</string>
+
+    <string name="esloka3035">śreyān sva-dharmo viguṇaḥ\n
+
+para-dharmāt sv-anuṣṭhitāt\n
+
+sva-dharme nidhanaḿ śreyaḥ\n
+
+para-dharmo bhayāvahaḥ</string>
+
+    <string name="esloka3036">arjuna uvāca\n
+
+atha kena prayukto \'yaḿ\n
+
+pāpaḿ carati pūruṣaḥ\n
+
+anicchann api vārṣṇeya\n
+
+balād iva niyojitaḥ</string>
+
+    <string name="esloka3037">śrī-bhagavān uvāca\n
+
+kāma eṣa krodha eṣa\n
+rajo-guṇa-samudbhavaḥ\n
+mahāśano mahā-pāpmā\n
+viddhy enam iha vairiṇam</string>
+
+    <string name="esloka3038">dhūmenāvriyate vahnir\n
+
+yathādarśo malena ca\n
+
+yatholbenāvṛto garbhas\n
+
+tathā tenedam āvṛtam</string>
+
+    <string name="esloka3039">āvṛtaḿ jñānam etena\n
+
+jñānino nitya-vairiṇā\n
+
+kāma-rūpeṇa kaunteya\n
+
+duṣpūreṇānalena ca</string>
+
+    <string name="esloka3040">indriyāṇi mano buddhir\n
+
+asyādhiṣṭhānam ucyate\n
+
+etair vimohayaty eṣa\n
+
+jñānam āvṛtya dehinam</string>
+
+    <string name="esloka3041">tasmāt tvam indriyāṇy ādau\n
+
+niyamya bharatarṣabha\n
+
+pāpmānaḿ prajahi hy enaḿ\n
+
+jñāna-vijñāna-nāśanam</string>
+
+    <string name="esloka3042">indriyāṇi parāṇy āhur\n
+
+indriyebhyaḥ paraḿ manaḥ\n
+
+manasas tu parā buddhir\n
+
+yo buddheḥ paratas tu saḥ</string>
+
+    <string name="esloka3043">evaḿ buddheḥ paraḿ buddhvā\n
+
+saḿstabhyātmānam ātmanā\n
+
+jahi śatruḿ mahā-bāho\n
+
+kāma-rūpaḿ durāsadam</string>
+
+
+
+</resources>

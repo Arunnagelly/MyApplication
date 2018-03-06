@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ssloka8001">अर्जुन उवाच\n
+किं तद्ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम ।\n
+अधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते ॥१॥ </string>
+ <string name="esloka8001">
+    arjuna uvāca\n
+    kiḿ tad brahma kim adhyātmaḿ\n
+    kiḿ karma puruṣottama\n
+    adhibhūtaḿ ca kiḿ proktam\n
+    adhidaivaḿ kim ucyate
+</string>
+ <string name="ssloka8002">अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन ।\n
+प्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः ॥२॥</string>
+ <string name="esloka8002">
+    adhiyajñaḥ kathaḿ ko \'tra\n
+    dehe \'smin madhusūdana\n
+    prayāṇa-kāle ca kathaḿ\n
+    jñeyo \'si niyatātmabhiḥ\n
+</string>
+ <string name="ssloka8003">रीभगवानुवाच \n
+अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते ।\n
+भूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः ॥३॥ </string>
+ <string name="esloka8003">
+    śrī-bhagavān uvāca\n
+    akṣaraḿ brahma paramaḿ\n
+    svabhāvo \'dhyātmam ucyate\n
+    bhūta-bhāvodbhava-karo\n
+    visargaḥ karma-saḿjñitaḥ
+</string>
+ <string name="ssloka8004">अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् ।\n
+अधियज्ञोऽहमेवात्र देहे देहभृतां वर ॥४॥ </string>
+ <string name="esloka8004">
+    adhibhūtaḿ kṣaro bhāvaḥ\n
+    puruṣaś cādhidaivatam\n
+    adhiyajño \'ham evātra\n
+    dehe deha-bhṛtāḿ vara
+</string>
+ <string name="ssloka8005">अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् ।\n
+यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ॥५॥ </string>
+ <string name="esloka8005">
+    anta-kāle ca mām eva\n
+    smaran muktvā kalevaram\n
+    yaḥ prayāti sa mad-bhāvaḿ\n
+    yāti nāsty atra saḿśayaḥ
+</string>
+ <string name="ssloka8006">यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् ।\n
+तं तमेवैति कौन्तेय सदा तद्भावभावितः ॥६॥ </string>
+ <string name="esloka8006">
+    yaḿ yaḿ vāpi smaran bhāvaḿ\n
+    tyajaty ante kalevaram\n
+    taḿ tam evaiti kaunteya\n
+    sadā tad-bhāva-bhāvitaḥ
+</string>
+ <string name="ssloka8007">तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।\n
+मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम् ॥७॥ </string>
+ <string name="esloka8007">
+    tasmāt sarveṣu kāleṣu\n
+    mām anusmara yudhya ca\n
+    mayy arpita-mano-buddhir\n
+    mām evaiṣyasy asaḿśayaḥ
+</string>
+ <string name="ssloka8008">अभ्यासयोगयुक्तेन चेतसा नान्यगामिना ।\n
+परमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ॥८॥ </string>
+ <string name="esloka8008">
+    abhyāsa-yoga-yuktena\n
+    cetasā nānya-gāminā\n
+    paramaḿ puruṣaḿ divyaḿ\n
+    yāti pārthānucintayan
+</string>
+ <string name="ssloka8009">कविं पुराणमनुशासितार-मणोरणीयांसमनुस्मरेद्यः ।
+सर्वस्य धातारमचिन्त्यरूप-मादित्यवर्णं तमसः परस्तात् ॥ ९॥ </string>
+ <string name="esloka8009">
+    kaviḿ purāṇam anuśāsitāram\n
+    aṇor aṇīyāḿsam anusmared yaḥ\n
+    sarvasya dhātāram acintya-rūpam\n
+    āditya-varṇaḿ tamasaḥ parastāt
+</string>
+ <string name="ssloka8010">प्रयाणकाले मनसाचलेन भक्त्या युक्तो योगबलेन चैव ।\n
+भ्रुवोर्मध्ये प्राणमावेश्य सम्यक् स तं परं पुरुषमुपैति दिव्यम् ॥ १०॥ </string>
+ <string name="esloka8010">
+    prayāṇa-kāle manasācalena\n
+    bhaktyā yukto yoga-balena caiva\n
+    bhruvor madhye prāṇam āveśya samyak\n
+    sa taḿ paraḿ puruṣam upaiti divyam
+</string>
+ <string name="ssloka8011">यदक्षरं वेदविदो वदन्ति विशन्ति यद्यतयो वीतरागाः ।\n
+यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण प्रवक्ष्ये ॥११॥ </string>
+<string name="esloka8011">
+    yad akṣaraḿ veda-vido vadanti\n
+    viśanti yad yatayo vīta-rāgāḥ\n
+    yad icchanto brahmacaryaḿ caranti\n
+    tat te padaḿ sańgraheṇa pravakṣye</string>
+
+ <string name="esloka8012">
+    sarva-dvārāṇi saḿyamya\n
+    mano hṛdi nirudhya ca\n
+    mūrdhny ādhāyātmanaḥ prāṇam\n
+    āsthito yoga-dhāraṇām
+</string>
+ <string name="ssloka8012">सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च ।\n
+मूर्ध्न्याधायात्मनः प्राणमास्थितो योगधारणाम् ॥१२॥</string>
+ <string name="esloka8013">
+    oḿ ity ekākṣaraḿ brahma\n
+    vyāharan mām anusmaran\n
+    yaḥ prayāti tyajan dehaḿ\n
+    sa yāti paramāḿ gatim
+</string>
+ <string name="ssloka8013">ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन्। >\n
+यः प्रयाति त्यजन्देहं स याति परमां गतिम्॥८- १३॥ </string>
+ <string name="esloka8014">
+    ananya-cetāḥ satataḿ\n
+    yo māḿ smarati nityaśaḥ\n
+    tasyāhaḿ sulabhaḥ pārtha\n
+    nitya-yuktasya yoginaḥ
+</string>
+ <string name="ssloka8014">अनन्यचेताः सततं यो मां स्मरति नित्यशः ।\n
+तस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः ॥१४॥ </string>
+ <string name="esloka8015">
+    mām upetya punar janma\n
+    duḥkhālayam aśāśvatam\n
+    nāpnuvanti mahātmānaḥ\n
+    saḿsiddhiḿ paramāḿ gatāḥ
+</string>
+ <string name="ssloka8015">मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम् ।\n
+नाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः ॥१५॥ </string>
+ <string name="esloka8016">
+    ā-brahma-bhuvanāl lokāḥ\n
+    punar āvartino \'rjuna\n
+    mām upetya tu kaunteya\n
+    punar janma na vidyate
+</string>
+ <string name="ssloka8016">आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन ।
+मामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते ॥१६॥ </string>
+ <string name="esloka8017">सहस्रयुगपर्यन्तमहर्यद्ब्रह्मणो विदुः ।\n
+रात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः ॥१७॥ </string>
+ <string name="ssloka8017">
+    sahasra-yuga-paryantam\n
+    ahar yad brahmaṇo viduḥ\n
+    rātriḿ yuga-sahasrāntāḿ\n
+    te \'ho-rātra-vido janāḥ
+</string>
+ <string name="esloka8018">
+    avyaktād vyaktayaḥ sarvāḥ\n
+    prabhavanty ahar-āgame\n
+    rātry-āgame pralīyante\n
+    tatraivāvyakta-saḿjñake
+</string>
+ <string name="ssloka8018">अव्यक्ताद्व्यक्तयः सर्वाः प्रभवन्त्यहरागमे ।\n
+रात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसंज्ञके ॥१८॥ </string>
+ <string name="esloka8019">
+    bhūta-grāmaḥ sa evāyaḿ\n
+    bhūtvā bhūtvā pralīyate\n
+    rātry-āgame \'vaśaḥ pārtha\n
+    prabhavaty ahar-āgame
+</string>
+ <string name="ssloka8019">भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते ।\n
+रात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे ॥१९॥ </string>
+ <string name="esloka8020">
+    paras tasmāt tu bhāvo \'nyo\n
+    \'vyakto \'vyaktāt sanātanaḥ\n
+    yaḥ sa sarveṣu bhūteṣu\n
+    naśyatsu na vinaśyati
+</string>
+ <string name="ssloka8020">परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः ।\n
+यः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति ॥२०॥ </string>
+ <string name="esloka8021">
+    avyakto \'kṣara ity uktas\n
+    tam āhuḥ paramāḿ gatim\n
+    yaḿ prāpya na nivartante\n
+    tad dhāma paramaḿ mama
+</string>
+ <string name="ssloka8021">अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम् ।\n
+यं प्राप्य न निवर्तन्ते तद्धाम परमं मम ॥२१॥ </string>
+ <string name="esloka8022">
+    puruṣaḥ sa paraḥ pārtha\n
+    bhaktyā labhyas tv ananyayā\n
+    yasyāntaḥ-sthāni bhūtāni\n
+    yena sarvam idaḿ tatam
+ </string>
+ <string name="ssloka8022">पुरुषः स परः पार्थ भक्त्या लभ्यस्त्वनन्यया ।\n
+यस्यान्तःस्थानि भूतानि येन सर्वमिदं ततम् ॥२२॥ </string>
+ <string name="ssloka8023">यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः ।
+प्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ ॥२३॥</string>
+ <string name="esloka8023">yatra kāle tv anāvṛttim\n
+āvṛttiḿ caiva yoginaḥ\n
+prayātā yānti taḿ kālaḿ\n
+vakṣyāmi bharatarṣabha</string>
+ <string name="ssloka8024">अग्निर्ज्योतिरहः शुक्लः षण्मासा उत्तरायणम् ।\n
+तत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जनाः ॥२४॥</string>
+ <string name="esloka8024">agnir jyotir ahaḥ śuklaḥ\n
+ṣaṇ-māsā uttarāyaṇam\n
+tatra prayātā gacchanti\n
+brahma brahma-vido janāḥ</string>
+ <string name="ssloka8025">धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम् ।\n
+तत्र चान्द्रमसं ज्योतिर्योगी प्राप्य निवर्तते ॥ २५॥</string>
+ <string name="esloka8025">dhūmo rātris tathā kṛṣṇaḥ\n
+ṣaṇ-māsā dakṣiṇāyanam\n
+tatra cāndramasaḿ jyotir\n
+yogī prāpya nivartate</string>
+ <string name="ssloka8026">शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते ।\n
+एकया यात्यनावृत्तिमन्ययावर्तते पुनः ॥२६॥</string>
+ <string name="esloka8026">śukla-kṛṣṇe gatī hy ete\n
+ jagataḥ śāśvate mate\n
+ekayā yāty anāvṛttim\n
+anyayāvartate punaḥ</string>
+ <string name="ssloka8027">नैते सृती पार्थ जानन्योगी मुह्यति कश्चन ।\n
+तस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन ॥२७॥</string>
+ <string name="esloka8027">naite sṛtī pārtha jānan\n
+yogī muhyati kaścana\n
+tasmāt sarveṣu kāleṣu\n
+yoga-yukto bhavārjuna</string>
+ <string name="ssloka8028">वेदेषु यज्ञेषु तपःसु चैव\n
+दानेषु यत् पुण्यफलं प्रदिष्टम् ।\n
+अत्येति तत्सर्वमिदं विदित्वा\n
+योगी परं स्थानमुपैति चाद्यम् ॥२८॥</string>
+ <string name="esloka8028">vedeṣu yajñeṣu tapaḥsu caiva\n
+dāneṣu yat puṇya-phalaḿ pradiṣṭam\n
+atyeti tat sarvam idaḿ viditvā\n
+yogī paraḿ sthānam upaiti cādyam</string>
+ 
+</resources>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="esloka15001">śrī-bhagavān uvāca\n
+ūrdhva-mūlam adhaḥ-śākham\n
+aśvatthaḿ prāhur avyayam\n
+chandāḿsi yasya parṇāni\n
+yas taḿ veda sa veda-vit</string>
+<string name="ssloka15001">श्रीभगवानुवाच\n
+ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् ।\n
+छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ॥१॥</string>
+<string name="esloka15002">adhaś cordhvaḿ prasṛtās tasya śākhā\n
+guṇa-pravṛddhā viṣaya-pravālāḥ\n
+adhaś ca mūlāny anusantatāni\n
+karmānubandhīni manuṣya-loke</string>
+<string name="ssloka15002">अधश्चोर्ध्वं प्रसृतास्तस्य शाखा\n
+गुणप्रवृद्धा विषयप्रवालाः ।\n
+अधश्च मूलान्यनुसंततानि\n
+कर्मानुबन्धीनि मनुष्यलोके ॥२॥</string>
+<string name="esloka15003">na rūpam asyeha tathopalabhyate\n
+nānto na cādir na ca sampratiṣṭhā\n
+aśvattham enaḿ su-virūḍha-mūlam\n
+asańga-śastreṇa dṛḍhena chittvā</string>
+<string name="ssloka15003">न रूपमस्येह तथोपलभ्यते\n
+नान्तो न चादिर्न च संप्रतिष्ठा ।\n
+अश्वत्थमेनं सुविरूढमूल-\n
+मसङ्गशस्त्रेण दृढेन छित्त्वा ॥३॥</string>
+<string name="esloka15004">tataḥ padaḿ tat parimārgitavyaḿ\n
+yasmin gatā na nivartanti bhūyaḥ\n
+tam eva cādyaḿ puruṣaḿ prapadye\n
+yataḥ pravṛttiḥ prasṛtā purāṇī</string>
+<string name="ssloka15004">ततः पदं तत्परिमार्गितव्यं\n
+यस्मिन्गता न निवर्तन्ति भूयः ।\n
+तमेव चाद्यं पुरुषं प्रपद्ये\n
+यतः प्रवृत्तिः प्रसृता पुराणी ॥४॥</string>
+<string name="esloka15005">nirmāna-mohā jita-sańga-doṣā\n
+adhyātma-nityā vinivṛtta-kāmāḥ\n
+dvandvair vimuktāḥ sukha-duḥkha-saḿjñair\n
+gacchanty amūḍhāḥ padam avyayaḿ tat</string>
+<string name="ssloka15005">निर्मानमोहा जितसङ्गदोषा\n
+अध्यात्मनित्या विनिवृत्तकामाः ।\n
+द्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञै- \n
+र्गच्छन्त्यमूढाः पदमव्ययं तत् ॥५॥</string>
+<string name="esloka15006">na tad bhāsayate sūryo\n
+na śaśāńko na pāvakaḥ\n
+yad gatvā na nivartante\n
+tad dhāma paramaḿ mama</string>
+<string name="ssloka15006">न तद्भासयते सूर्यो न शशाङ्को न पावकः ।\n
+यद्गत्वा न निवर्तन्ते तद्धाम परमं मम ॥६॥</string>
+<string name="esloka15007">mamaivāḿśo jīva-loke\n
+jīva-bhūtaḥ sanātanaḥ\n
+manaḥ-ṣaṣṭhānīndriyāṇi\n
+prakṛti-sthāni karṣati</string>
+<string name="ssloka15007">ममैवांशो जीवलोके जीवभूतः सनातनः ।\n
+मनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ॥७॥</string>
+<string name="esloka15008">śarīraḿ yad avāpnoti\n
+yac cāpy utkrāmatīśvaraḥ\n
+gṛhītvaitāni saḿyāti\n
+vāyur gandhān ivāśayāt</string>
+<string name="ssloka15008">शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः ।\n
+गृहित्वैतानि संयाति वायुर्गन्धानिवाशयात् ॥८॥</string>
+<string name="esloka15009">śrotraḿ cakṣuḥ sparśanaḿ ca\n
+rasanaḿ ghrāṇam eva ca\n
+adhiṣṭhāya manaś cāyaḿ\n
+viṣayān upasevate</string>
+<string name="ssloka15009">श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च ।\n
+अधिष्ठाय मनश्चायं विषयानुपसेवते ॥९॥</string>
+<string name="esloka15010">utkrāmantaḿ sthitaḿ vāpi\n
+bhuñjānaḿ vā guṇānvitam\n
+vimūḍhā nānupaśyanti\n
+paśyanti jñāna-cakṣuṣaḥ</string>
+<string name="ssloka15010">उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् ।\n
+विमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः ॥१०॥</string>
+<string name="esloka15011">yatanto yoginaś cainaḿ\n
+paśyanty ātmany avasthitam\n
+yatanto \'py akṛtātmāno\n
+nainaḿ paśyanty acetasaḥ</string>
+<string name="ssloka15011">यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् ।\n
+यतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ॥११॥</string>
+<string name="esloka15012">yad āditya-gataḿ tejo\n
+jagad bhāsayate \'khilam\n
+yac candramasi yac cāgnau\n
+tat tejo viddhi māmakam</string>
+<string name="ssloka15012">यदादित्यगतं तेजो जगद्भासयतेऽखिलम् ।\n
+यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् ॥१२॥</string>
+<string name="esloka15013">gām āviśya ca bhūtāni\n
+dhārayāmy aham ojasā
+puṣṇāmi cauṣadhīḥ sarvāḥ
+somo bhūtvā rasātmakaḥ</string>
+<string name="ssloka15013">गामाविश्य च भूतानि धारयाम्यहमोजसा ।\n
+पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः ॥१३॥</string>
+<string name="esloka15014">ahaḿ vaiśvānaro bhūtvā\n
+prāṇināḿ deham āśritaḥ\n
+prāṇāpāna-samāyuktaḥ\n
+pacāmy annaḿ catur-vidham</string>
+<string name="ssloka15014">अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः ।\n
+प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ॥१४॥</string>
+<string name="esloka15015">sarvasya cāhaḿ hṛdi sanniviṣṭo\n
+mattaḥ smṛtir jñānam apohanaḿ ca\n
+vedaiś ca sarvair aham eva vedyo\n
+vedānta-kṛd veda-vid eva cāham</string>
+<string name="ssloka15015">सर्वस्य चाहं हृदि संनिविष्टो\n
+मत्तः स्मृतिर्ज्ञानमपोहनं च ।\n
+वेदैश्च सर्वैरहमेव वेद्यो\n
+वेदान्तकृद्वेदविदेव चाहम् ॥१५॥</string>
+<string name="esloka15016">dvāv imau puruṣau loke\n
+kṣaraś cākṣara eva ca\n
+kṣaraḥ sarvāṇi bhūtāni\n
+kūṭa-stho \'kṣara ucyate</string>
+<string name="ssloka15016">द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च ।\n
+क्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ॥१६॥</string>
+<string name="esloka15017">uttamaḥ puruṣas tv anyaḥ\n
+paramātmety udāhṛtaḥ\n
+yo loka-trayam āviśya\n
+bibharty avyaya īśvaraḥ</string>
+<string name="ssloka15017">उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः ।\n
+यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः ॥ १७॥</string>
+<string name="esloka15018">yasmāt kṣaram atīto \'ham\n
+akṣarād api cottamaḥ\n
+ato \'smi loke vede ca\n
+prathitaḥ puruṣottamaḥ</string>
+<string name="ssloka15018">यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः ।\n
+अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः ॥१८॥</string>
+<string name="esloka15019">yo mām evam asammūḍho\n
+jānāti puruṣottamam\n
+sa sarva-vid bhajati māḿ\n
+sarva-bhāvena bhārata</string>
+<string name="ssloka15019">यो मामेवमसंमूढो जानाति पुरुषोत्तमम् ।\n
+स सर्वविद्भजति मां सर्वभावेन भारत ॥१९॥</string>
+<string name="esloka15020">iti guhyatamaḿ śāstram\n
+idam uktaḿ mayānagha\n
+etad buddhvā buddhimān syāt\n
+kṛta-kṛtyaś ca bhārata</string>
+<string name="ssloka15020">इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ ।\n
+एतद्‌बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत ॥२०॥</string>
+</resources>

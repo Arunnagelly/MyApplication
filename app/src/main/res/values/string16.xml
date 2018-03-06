@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="esloka16001">śrī-bhagavān uvāca\n
+abhayaḿ sattva-saḿśuddhir\n
+jñāna-yoga-vyavasthitiḥ\n
+dānaḿ damaś ca yajñaś ca\n
+svādhyāyas tapa ārjavam</string>
+<string name="ssloka16001">श्रीभगवानुवाच \n
+अभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः ।\n
+दानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ॥१॥</string>
+<string name="esloka16002">ahiḿsā satyam akrodhas\n
+tyāgaḥ śāntir apaiśunam\n
+dayā bhūteṣv aloluptvaḿ\n
+mārdavaḿ hrīr acāpalam</string>
+<string name="ssloka16002">अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् ।\n
+दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ॥२॥</string>
+<string name="esloka16003">tejaḥ kṣamā dhṛtiḥ śaucam\n
+adroho nāti-mānitā\n
+bhavanti sampadaḿ daivīm\n
+abhijātasya bhārata</string>
+<string name="ssloka16003">तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता ।\n
+भवन्ति संपदं दैवीमभिजातस्य भारत ॥३॥</string>
+<string name="esloka16004">dambho darpo \'bhimānaś ca\n
+krodhaḥ pāruṣyam eva ca\n
+ajñānaḿ cābhijātasya\n
+pārtha sampadam āsurīm</string>
+<string name="ssloka16004">दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च ।\n
+अज्ञानं चाभिजातस्य पार्थ संपदमासुरीम् ॥४॥</string>
+<string name="esloka16005">daivī sampad vimokṣāya\n
+nibandhāyāsurī matā\n
+mā śucaḥ sampadaḿ daivīm\n
+abhijāto \'si pāṇḍava</string>
+<string name="ssloka16005">दैवी संपद्विमोक्षाय निबन्धायासुरी मता ।\n
+मा शुचः संपदं दैवीमभिजातोऽसि पाण्डव ॥५॥</string>
+<string name="esloka16006">dvau bhūta-sargau loke \'smin\n
+daiva āsura eva ca\n
+daivo vistaraśaḥ prokta\n
+āsuraḿ pārtha me śṛṇu</string>
+<string name="ssloka16006">द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च ।\n
+दैवो विस्तरशः प्रोक्त आसुरं पार्थ मे शृणु ॥६॥</string>
+<string name="esloka16007">pravṛttiḿ ca nivṛttiḿ ca\n
+janā na vidur āsurāḥ\n
+na śaucaḿ nāpi cācāro\n
+na satyaḿ teṣu vidyate</string>
+<string name="ssloka16007">प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः ।\n
+न शौचं नापि चाचारो न सत्यं तेषु विद्यते ॥७॥</string>
+<string name="esloka16008">asatyam apratiṣṭhaḿ te\n
+jagad āhur anīśvaram\n
+aparaspara-sambhūtaḿ\n
+kim anyat kāma-haitukam</string>
+<string name="ssloka16008">असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् ।\n
+अपरस्परसंभूतं किमन्यत्कामहैतुकम् ॥८॥</string>
+<string name="esloka16009">etāḿ dṛṣṭim avaṣṭabhya\n
+naṣṭātmāno \'lpa-buddhayaḥ\n
+prabhavanty ugra-karmāṇaḥ\n
+kṣayāya jagato \'hitāḥ</string>
+<string name="ssloka16009">एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः ।\n
+प्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः ॥९॥</string>
+<string name="esloka16010">kāmam āśritya duṣpūraḿ\n
+dambha-māna-madānvitāḥ\n
+mohād gṛhītvāsad-grāhān\n
+pravartante \'śuci-vratāḥ</string>
+<string name="ssloka16010">काममाश्रित्य दुष्पूरं दम्भमानमदान्विताः ।\n
+मोहाद्‌गृहीत्वासद्ग्राहान्प्रवर्तन्तेऽशुचिव्रताः ॥१०॥</string>
+<string name="esloka16011">cintām aparimeyāḿ ca\n
+pralayāntām upāśritāḥ\n
+kāmopabhoga-paramā\n
+etāvad iti niścitāḥ</string>
+<string name="ssloka16011">चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः ।\n
+कामोपभोगपरमा एतावदिति निश्चिताः ॥११॥</string>
+<string name="esloka16012">āśā-pāśa-śatair baddhāḥ\n
+kāma-krodha-parāyaṇāḥ\n
+īhante kāma-bhogārtham\n
+anyāyenārtha-sañcayān</string>
+<string name="ssloka16012">आशापाशशतैर्बद्धाः कामक्रोधपरायणाः ।\n
+ईहन्ते कामभोगार्थमन्यायेनार्थसञ्चयान् ॥१२॥</string>
+<string name="esloka16013">idam adya mayā labdham\n
+imaḿ prāpsye manoratham\n
+idam astīdam api me\n
+bhaviṣyati punar dhanam</string>
+<string name="ssloka16013">इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् ।\n
+इदमस्तीदमपि मे भविष्यति पुनर्धनम् ॥१३॥</string>
+<string name="esloka16014">asau mayā hataḥ śatrur\n
+haniṣye cāparān api\n
+īśvaro \'ham ahaḿ bhogī\n
+siddho \'haḿ balavān sukhī</string>
+<string name="ssloka16014">असौ मया हतः शत्रुर्हनिष्ये चापरानपि ।\n
+ईश्वरोऽहमहं भोगी सिद्धोऽहं बलवान्सुखी ॥१४॥</string>
+<string name="esloka16015">āḍhyo \'bhijanavān asmi\n
+ko \'nyo \'sti sadṛśo mayā\n
+yakṣye dāsyāmi modiṣya\n
+ity ajñāna-vimohitāḥ</string>
+<string name="ssloka16015">आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया ।\n
+यक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः ॥१५॥</string>
+<string name="esloka16016">aneka-citta-vibhrāntā\n
+moha-jāla-samāvṛtāḥ\n
+prasaktāḥ kāma-bhogeṣu\n
+patanti narake \'śucau</string>
+<string name="ssloka16016">अनेकचित्तविभ्रान्ता मोहजालसमावृताः ।\n
+प्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ ॥ १६॥</string>
+<string name="esloka16017">ātma-sambhāvitāḥ stabdhā\n
+dhana-māna-madānvitāḥ\n
+yajante nāma-yajñais te\n
+dambhenāvidhi-pūrvakam</string>
+<string name="ssloka16017">आत्मसंभाविताः स्तब्धा धनमानमदान्विताः ।\n
+यजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम् ॥१७॥</string>
+<string name="esloka16018">ahańkāraḿ balaḿ darpaḿ\n
+kāmaḿ krodhaḿ ca saḿśritāḥ\n
+mām ātma-para-deheṣu\n
+pradviṣanto \'bhyasūyakāḥ</string>
+<string name="ssloka16018">अहंकारं बलं दर्पं कामं क्रोधं च संश्रिताः ।\n
+मामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः ॥१८॥</string>
+<string name="esloka16019">tān ahaḿ dviṣataḥ krūrān\n
+saḿsāreṣu narādhamān\n
+kṣipāmy ajasram aśubhān\n
+āsurīṣv eva yoniṣu</string>
+<string name="ssloka16019">तानहं द्विषतः क्रुरान्संसारेषु नराधमान् ।\n
+क्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु ॥१९॥</string>
+<string name="esloka16020">āsurīḿ yonim āpannā\n
+mūḍhā janmani janmani\n
+mām aprāpyaiva kaunteya\n
+tato yānty adhamāḿ gatim</string>
+<string name="ssloka16020">आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि ।\n
+मामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् ॥२०॥</string>
+<string name="esloka16021">tri-vidhaḿ narakasyedaḿ\n
+dvāraḿ nāśanam ātmanaḥ\n
+kāmaḥ krodhas tathā lobhas\n
+tasmād etat trayaḿ tyajet</string>
+<string name="ssloka16021">त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः ।\n
+कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ॥२१॥</string>
+<string name="esloka16022">etair vimuktaḥ kaunteya\n
+tamo-dvārais tribhir naraḥ\n
+ācaraty ātmanaḥ śreyas\n
+tato yāti parāḿ gatim</string>
+<string name="ssloka16022">एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः ।\n
+आचरत्यात्मनः श्रेयस्ततो याति परां गतिम् ॥२२॥</string>
+<string name="esloka16023">yaḥ śāstra-vidhim utsṛjya\n
+vartate kāma-kārataḥ\n
+na sa siddhim avāpnoti\n
+na sukhaḿ na parāḿ gatim</string>
+<string name="ssloka16023">यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः ।\n
+न स सिद्धिमवाप्नोति न सुखं न परां गतिम् ॥२३॥</string>
+<string name="esloka16024">tasmāc chāstraḿ pramāṇaḿ te\n
+kāryākārya-vyavasthitau\n
+jñātvā śāstra-vidhānoktaḿ\n
+karma kartum ihārhasi</string>
+<string name="ssloka16024">तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ ।\n
+ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ॥२४॥</string>
+</resources>

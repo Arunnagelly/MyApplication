@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="ssloka18001">अर्जुन उवाच\n
+संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् ।\n
+त्यागस्य च हृषीकेश पृथक्केशिनिषूदन ॥१॥</string>
+<string name="esloka18001">arjuna uvāca\n
+sannyāsasya mahā-bāho\n
+tattvam icchāmi veditum\n
+tyāgasya ca hṛṣīkeśa\n
+pṛthak keśī-niṣūdana</string>
+
+<string name="ssloka18002">श्रीभगवानुवाच\n
+काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः ।\n
+सर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः ॥२॥</string>
+<string name="esloka18002">śrī-bhagavān uvāca\n
+kāmyānāḿ karmaṇāḿ nyāsaḿ\n
+sannyāsaḿ kavayo viduḥ\n
+sarva-karma-phala-tyāgaḿ\n
+prāhus tyāgaḿ vicakṣaṇāḥ</string>
+
+<string name="ssloka18003">त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः ।\n
+यज्ञदानतपःकर्म न त्याज्यमिति चापरे ॥३॥</string>
+<string name="esloka18003">tyājyaḿ doṣa-vad ity eke\n
+karma prāhur manīṣiṇaḥ\n
+yajña-dāna-tapaḥ-karma\n
+na tyājyam iti cāpare</string>
+
+<string name="ssloka18004">निश्चयं शृणु मे तत्र त्यागे भरतसत्तम ।\n
+त्यागो हि पुरुषव्याघ्र त्रिविधः संप्रकीर्तितः ॥४॥</string>
+<string name="esloka18004">niścayaḿ śṛṇu me tatra\n
+tyāge bharata-sattama\n
+tyāgo hi puruṣa-vyāghra\n
+tri-vidhaḥ samprakīrtitaḥ</string>
+
+<string name="ssloka18005">यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् ।\n
+यज्ञो दानं तपश्चैव पावनानि मनीषिणाम् ॥५॥</string>
+<string name="esloka18005">yajña-dāna-tapaḥ-karma\n
+na tyājyaḿ kāryam eva tat\n
+yajño dānaḿ tapaś caiva\n
+pāvanāni manīṣiṇām</string>
+
+<string name="ssloka18006">एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च ।\n
+कर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम् ॥६॥</string>
+<string name="esloka18006">etāny api tu karmāṇi\n
+sańgaḿ tyaktvā phalāni ca\n
+kartavyānīti me pārtha\n
+niścitaḿ matam uttamam</string>
+
+<string name="ssloka18007">नियतस्य तु संन्यासः कर्मणो नोपपद्यते ।\n
+मोहात्तस्य परित्यागस्तामसः परिकीर्तितः ॥७॥</string>
+<string name="esloka18007">niyatasya tu sannyāsaḥ\n
+karmaṇo nopapadyate\n
+mohāt tasya parityāgas\n
+tāmasaḥ parikīrtitaḥ</string>
+
+<string name="ssloka18008">दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत् ।\n
+स कृत्वा राजसं त्यागं नैव त्यागफलं लभेत् ॥८॥</string>
+<string name="esloka18008">duḥkham ity eva yat karma\n
+kāya-kleśa-bhayāt tyajet\n
+sa kṛtvā rājasaḿ tyāgaḿ\n
+naiva tyāga-phalaḿ labhe</string>
+
+<string name="ssloka18009">कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन ।\n
+सङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः ॥९॥</string>
+<string name="esloka18009">kāryam ity eva yat karma\n
+niyataḿ kriyate \'rjuna\n
+sańgaḿ tyaktvā phalaḿ caiva\n
+sa tyāgaḥ sāttviko mataḥ</string>
+
+<string name="ssloka18010">न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते ।\n
+त्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः ॥१०॥</string>
+<string name="esloka18010">na dveṣṭy akuśalaḿ karma\n
+kuśale nānuṣajjate\n
+tyāgī sattva-samāviṣṭo\n
+medhāvī chinna-saḿśayaḥ</string>
+
+<string name="ssloka18011">न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः ।\n
+यस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते ॥११॥</string>
+<string name="esloka18011">na hi deha-bhṛtā śakyaḿ\n
+tyaktuḿ karmāṇy aśeṣataḥ\n
+yas tu karma-phala-tyāgī\n
+sa tyāgīty abhidhīyate</string>
+
+<string name="ssloka18012">अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् ।\n
+भवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित् ॥१२॥</string>
+<string name="esloka18012">aniṣṭam iṣṭaḿ miśraḿ ca\n
+tri-vidhaḿ karmaṇaḥ phalam\n
+bhavaty atyāgināḿ pretya\n
+na tu sannyāsināḿ kvacit</string>
+
+<string name="ssloka18013">पञ्चैतानि महाबाहो कारणानि निबोध मे ।\n
+सांख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम् ॥१३॥</string>
+<string name="esloka18013">pañcaitāni mahā-bāho\n
+kāraṇāni nibodha me\n
+sāńkhye kṛtānte proktāni\n
+siddhaye sarva-karmaṇām</string>
+
+<string name="ssloka18014">अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् ।\n
+विविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम् ॥१४॥</string>
+<string name="esloka18014">adhiṣṭhānaḿ tathā kartā\n
+karaṇaḿ ca pṛthag-vidham\n
+vividhāś ca pṛthak ceṣṭā\n
+daivaḿ caivātra pañcamam</string>
+
+<string name="ssloka18015">शरीरवाङ्‌मनोभिर्यत्कर्म प्रारभते नरः ।\n
+न्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः ॥१५॥</string>
+<string name="esloka18015">śarīra-vāń-manobhir yat\n
+karma prārabhate naraḥ\n
+nyāyyaḿ vā viparītaḿ vā\n
+pañcaite tasya hetavaḥ</string>
+
+<string name="ssloka18016">तत्रैवं सति कर्तारमात्मानं केवलं तु यः ।\n
+पश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः ॥१६॥</string>
+<string name="esloka18016">tatraivaḿ sati kartāram\n
+ātmānaḿ kevalaḿ tu yaḥ\n
+paśyaty akṛta-buddhitvān\n
+na sa paśyati durmati</string>
+
+<string name="ssloka18017">यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते ।\n
+हत्वापि स इमाँल्लोकान्न हन्ति न निबध्यते ॥१७॥</string>
+<string name="esloka18017">yasya nāhańkṛto bhāvo\n
+buddhir yasya na lipyate\n
+hatvāpi sa imān lokān\n
+na hanti na nibadhyate</string>
+
+<string name="ssloka18018">ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना ।\n
+करणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः ॥१८॥</string>
+<string name="esloka18018">jñānaḿ jñeyaḿ parijñātā\n
+tri-vidhā karma-codanā\n
+karaṇaḿ karma karteti\n
+tri-vidhaḥ karma-sańgrahaḥ</string>
+
+<string name="ssloka18019">ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः ।\n
+प्रोच्यते गुणसंख्याने यथावच्छृणु तान्यपि ॥१९॥</string>
+<string name="esloka18019">jñānaḿ karma ca kartā ca\n
+tridhaiva guṇa-bhedataḥ\n
+procyate guṇa-sańkhyāne\n
+yathāvac chṛṇu tāny api</string>
+
+<string name="ssloka18020">सर्वभूतेषु येनैकं भावमव्ययमीक्षते ।\n
+अविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम् ॥२०॥</string>
+<string name="esloka18020">sarva-bhūteṣu yenaikaḿ\n
+bhāvam avyayam īkṣate\n
+avibhaktaḿ vibhakteṣu\n
+taj jñānaḿ viddhi sāttvikam</string>
+
+<string name="ssloka18021">पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् ।\n
+वेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम् ॥२१॥</string>
+<string name="esloka18021">pṛthaktvena tu yaj jñānaḿ\n
+nānā-bhāvān pṛthag-vidhān\n
+vetti sarveṣu bhūteṣu\n
+taj jñānaḿ viddhi rājasam</string>
+
+<string name="ssloka18022">यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् ।\n
+अतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम् ॥२२॥</string>
+<string name="esloka18022">yat tu kṛtsna-vad ekasmin\n
+kārye saktam ahaitukam\n
+atattvārtha-vad alpaḿ ca\n
+tat tāmasam udāhṛtam</string>
+
+<string name="ssloka18023">नियतं सङ्गरहितमरागद्वेषतः कृतम् ।\n
+अफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते ॥२३॥</string>
+<string name="esloka18023">niyataḿ sańga-rahitam\n
+arāga-dveṣataḥ kṛtam\n
+aphala-prepsunā karma\n
+yat tat sāttvikam ucyate</string>
+
+<string name="ssloka18024">यत्तु कामेप्सुना कर्म साहंकारेण वा पुनः ।\n
+क्रियते बहुलायासं तद्राजसमुदाहृतम् ॥२४॥</string>
+<string name="esloka18024">yat tu kāmepsunā karma\n
+sāhańkāreṇa vā punaḥ\n
+kriyate bahulāyāsaḿ\n
+tad rājasam udāhṛtam</string>
+
+<string name="ssloka18025">अनुबन्धं क्षयं हिंसामनवेक्ष्य च पौरुषम् ।\n
+मोहादारभ्यते कर्म यत्तत्तामसमुच्यते ॥२५॥</string>
+<string name="esloka18025">anubandhaḿ kṣayaḿ hiḿsām\n
+anapekṣya ca pauruṣam\n
+mohād ārabhyate karma\n
+yat tat tāmasam ucyate</string>
+
+<string name="ssloka18026">मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः ।\n
+सिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते ॥२६॥</string>
+<string name="esloka18026">mukta-sańgo \'nahaḿ-vādī\n
+dhṛty-utsāha-samanvitaḥ\n
+siddhy-asiddhyor nirvikāraḥ\n
+kartā sāttvika ucyate</string>
+
+<string name="ssloka18027">रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः ।\n
+हर्षशोकान्वितः कर्ता राजसः परिकीर्तितः ॥२७॥</string>
+<string name="esloka18027">rāgī karma-phala-prepsur\n
+lubdho hiḿsātmako \'śuciḥ\n
+harṣa-śokānvitaḥ kartā\n
+rājasaḥ parikīrtitaḥ</string>
+
+<string name="ssloka18028">अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः ।\n
+विषादी दीर्घसूत्री च कर्ता तामस उच्यते ॥२८॥</string>
+<string name="esloka18028">ayuktaḥ prākṛtaḥ stabdhaḥ\n
+śaṭho naiṣkṛtiko \'lasaḥ\n
+viṣādī dīrgha-sūtrī ca\n
+kartā tāmasa ucyate</string>
+
+<string name="ssloka18029">बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु ।\n
+प्रोच्यमानमशेषेण पृथक्त्वेन धनंजय ॥२९॥</string>
+<string name="esloka18029">buddher bhedaḿ dhṛteś caiva\n
+guṇatas tri-vidhaḿ śṛṇu\n
+procyamānam aśeṣeṇa\n
+pṛthaktvena dhanañjaya</string>
+
+<string name="ssloka18030">प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये ।\n
+बन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी ॥३०॥</string>
+<string name="esloka18030">pravṛttiḿ ca nivṛttiḿ ca\n
+kāryākārye bhayābhaye\n
+bandhaḿ mokṣaḿ ca yā vetti\n
+buddhiḥ sā pārtha sāttvikī</string>
+
+<string name="ssloka18031">यया धर्ममधर्मं च कार्यं चाकार्यमेव च ।\n
+अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी ॥३१॥</string>
+<string name="esloka18031">yayā dharmam adharmaḿ ca\n
+kāryaḿ cākāryam eva ca\n
+ayathāvat prajānāti\n
+buddhiḥ sā pārtha rājasī</string>
+
+<string name="ssloka18032">अधर्मं धर्ममिति या मन्यते तमसावृता ।\n
+सर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी ॥३२॥</string>
+<string name="esloka18032">adharmaḿ dharmam iti yā\n
+manyate tamasāvṛtā\n
+sarvārthān viparītāḿś ca\n
+buddhiḥ sā pārtha tāmasī</string>
+
+<string name="ssloka18033">धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः ।\n
+योगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी ॥३३॥</string>
+<string name="esloka18033">dhṛtyā yayā dhārayate\n
+manaḥ-prāṇendriya-kriyāḥ\n
+yogenāvyabhicāriṇyā\n
+dhṛtiḥ sā pārtha sāttvikī</string>
+
+<string name="ssloka18034">यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन ।\n
+प्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी ॥३४॥</string>
+<string name="esloka18034">yayā tu dharma-kāmārthān\n
+dhṛtyā dhārayate \'rjuna\n
+prasańgena phalākāńkṣī\n
+dhṛtiḥ sā pārtha rājasī</string>
+
+<string name="ssloka18035">यया स्वप्नं भयं शोकं विषादं मदमेव च ।\n
+न विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी ॥३५॥</string>
+<string name="esloka18035">yayā svapnaḿ bhayaḿ śokaḿ\n
+viṣādaḿ madam eva ca\n
+na vimuñcati durmedhā\n
+dhṛtiḥ sā pārtha tāmasī</string>
+
+<string name="ssloka18036">सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ ।\n
+अभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति ॥३६॥</string>
+<string name="esloka18036">sukhaḿ tv idānīḿ tri-vidhaḿ\n
+śṛṇu me bharatarṣabha\n
+abhyāsād ramate yatra\n
+duḥkhāntaḿ ca nigacchati</string>
+
+<string name="ssloka18037">यत्तदग्रे विषमिव परिणामेऽमृतोपमम् ।\n
+तत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम् ॥३७॥</string>
+<string name="esloka18037">yat tad agre viṣam iva\n
+pariṇāme \'mṛtopamam\n
+tat sukhaḿ sāttvikaḿ proktam\n
+ātma-buddhi-prasāda-jam</string>
+
+<string name="ssloka18038">विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् ।\n
+परिणामे विषमिव तत्सुखं राजसं स्मृतम् ॥३८॥</string>
+<string name="esloka18038">viṣayendriya-saḿyogād\n
+yat tad agre \'mṛtopamam\n
+pariṇāme viṣam iva\n
+tat sukhaḿ rājasaḿ smṛtam</string>
+
+<string name="ssloka18039">यदग्रे चानुबन्धे च सुखं मोहनमात्मनः ।\n
+निद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम् ॥३९॥</string>
+<string name="esloka18039">yad agre cānubandhe ca\n
+sukhaḿ mohanam ātmanaḥ\n
+nidrālasya-pramādotthaḿ\n
+tat tāmasam udāhṛtam</string>
+
+<string name="ssloka18040">न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः ।\n
+सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः ॥४०॥</string>
+<string name="esloka18040">na tad asti pṛthivyāḿ vā\n
+divi deveṣu vā punaḥ\n
+sattvaḿ prakṛti-jair muktaḿ\n
+yad ebhiḥ syāt tribhir guṇaiḥ</string>
+
+<string name="ssloka18041">ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप ।\n
+कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः ॥४१॥</string>
+<string name="esloka18041">brāhmaṇa-kṣatriya-viśāḿ\n
+śūdrāṇāḿ ca parantapa\n
+karmāṇi pravibhaktāni\n
+svabhāva-prabhavair guṇaiḥ</string>
+
+<string name="ssloka18042">शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च ।\n
+ज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम् ॥४२॥</string>
+<string name="esloka18042">śamo damas tapaḥ śaucaḿ\n
+kṣāntir ārjavam eva ca\n
+jñānaḿ vijñānam āstikyaḿ\n
+brahma-karma svabhāva-jam</string>
+
+<string name="ssloka18043">शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् ।\n
+दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम् ॥४३॥</string>
+<string name="esloka18043">śauryaḿ tejo dhṛtir dākṣyaḿ\n
+yuddhe cāpy apalāyanam\n
+dānam īśvara-bhāvaś ca\n
+kṣātraḿ karma svabhāva-jam</string>
+
+<string name="ssloka18044">कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् ।\n
+परिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम् ॥४४॥</string>
+<string name="esloka18044">kṛṣi-go-rakṣya-vāṇijyaḿ\n
+vaiśya-karma svabhāva-jam\n
+paricaryātmakaḿ karma\n
+śūdrasyāpi svabhāva-jam</string>
+
+<string name="ssloka18045">स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः ।\n
+स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु ॥४५॥</string>
+<string name="esloka18045">sve sve karmaṇy abhirataḥ\n
+saḿsiddhiḿ labhate naraḥ\n
+sva-karma-nirataḥ siddhiḿ\n
+yathā vindati tac chṛṇu</string>
+
+<string name="ssloka18046">यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् ।\n
+स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः ॥४६॥</string>
+<string name="esloka18046">yataḥ pravṛttir bhūtānāḿ\n
+yena sarvam idaḿ tatam\n
+sva-karmaṇā tam abhyarcya\n
+siddhiḿ vindati mānavaḥ</string>
+
+<string name="ssloka18047">श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।\n
+स्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम् ॥४७॥</string>
+<string name="esloka18047">śreyān sva-dharmo viguṇaḥ\n
+para-dharmāt sv-anuṣṭhitāt\n
+svabhāva-niyataḿ karma\n
+kurvan nāpnoti kilbiṣam</string>
+
+<string name="ssloka18048">सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् ।\n
+सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः ॥४८॥</string>
+<string name="esloka18048">saha-jaḿ karma kaunteya\n
+sa-doṣam api na tyajet\n
+sarvārambhā hi doṣeṇa\n
+dhūmenāgnir ivāvṛtāḥ</string>
+
+<string name="ssloka18049">असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः ।\n
+नैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति ॥४९॥</string>
+<string name="esloka18049">asakta-buddhiḥ sarvatra\n
+jitātmā vigata-spṛhaḥ\n
+naiṣkarmya-siddhiḿ paramāḿ\n
+sannyāsenādhigacchati</string>
+
+<string name="ssloka18050">सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे ।\n
+समासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा ॥५०॥</string>
+<string name="esloka18050">siddhiḿ prāpto yathā brahma\n
+tathāpnoti nibodha me\n
+samāsenaiva kaunteya\n
+niṣṭhā jñānasya yā parā</string>
+
+<string name="ssloka18051">बुद्ध्या विशुद्ध्या युक्तो धृत्यात्मानं नियम्य च ।\n
+शब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च ॥५१॥</string>
+<string name="esloka18051">buddhyā viśuddhayā yukto\n
+dhṛtyātmānaḿ niyamya ca\n
+śabdādīn viṣayāḿs tyaktvā\n
+rāga-dveṣau vyudasya ca</string>
+
+<string name="ssloka18052">विविक्तसेवी लघ्वाशी यतवाक्कायमानसः ।\n
+ध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः ॥५२॥</string>
+<string name="esloka18052">vivikta-sevī laghv-āśī\n
+yata-vāk-kāya-mānasaḥ\n
+dhyāna-yoga-paro nityaḿ\n
+vairāgyaḿ samupāśritaḥ</string>
+
+<string name="ssloka18053">अहंकारं बलं दर्पं कामं क्रोधं परिग्रहम् ।\n
+विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते ॥५३॥</string>
+<string name="esloka18053">ahańkāraḿ balaḿ darpaḿ\n
+kāmaḿ krodhaḿ parigraham\n
+vimucya nirmamaḥ śānto\n
+brahma-bhūyāya kalpate</string>
+
+<string name="ssloka18054">ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति ।\n
+समः सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ॥५४॥</string>
+<string name="esloka18054">brahma-bhūtaḥ prasannātmā\n
+na śocati na kāńkṣati\n
+samaḥ sarveṣu bhūteṣu\n
+mad-bhaktiḿ labhate parām</string>
+
+<string name="ssloka18055">भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः ।\n
+ततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम् ॥५५॥</string>
+<string name="esloka18055">bhaktyā mām abhijānāti\n
+yāvān yaś cāsmi tattvataḥ\n
+tato māḿ tattvato jñātvā\n
+viśate tad-anantaram</string>
+
+<string name="ssloka18056">सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः ।\n
+मत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम् ॥५६॥</string>
+<string name="esloka18056">sarva-karmāṇy api sadā\n
+kurvāṇo mad-vyapāśrayaḥ\n
+mat-prasādād avāpnoti\n
+śāśvataḿ padam avyayam</string>
+
+<string name="ssloka18057">चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः ।\n
+बुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव ॥५७॥</string>
+<string name="esloka18057">cetasā sarva-karmāṇi\n
+mayi sannyasya mat-paraḥ\n
+buddhi-yogam upāśritya\n
+mac-cittaḥ satataḿ bhava</string>
+
+<string name="ssloka18058">मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि ।\n
+अथ चेत्त्वमहंकारान्न श्रोष्यसि विनङ्क्ष्यसि ॥५८॥</string>
+<string name="esloka18058">mac-cittaḥ sarva-durgāṇi\n
+mat-prasādāt tariṣyasi\n
+atha cet tvam ahańkārān\n
+na śroṣyasi vinańkṣyasi</string>
+
+<string name="ssloka18059">यदहंकारमाश्रित्य न योत्स्य इति मन्यसे ।\n
+मिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति ॥५९॥</string>
+<string name="esloka18059">yad ahańkāram āśritya\n
+na yotsya iti manyase\n
+mithyaiṣa vyavasāyas te\n
+prakṛtis tvāḿ niyokṣyati</string>
+
+<string name="ssloka18060">स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा ।\n
+कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत् ॥६०॥</string>
+<string name="esloka18060">svabhāva-jena kaunteya\n
+nibaddhaḥ svena karmaṇā\n
+kartuḿ necchasi yan mohāt\n
+kariṣyasy avaśo \'pi tat</string>
+
+<string name="ssloka18061">ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति ।\n
+भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया ॥६१॥</string>
+<string name="esloka18061">īśvaraḥ sarva-bhūtānāḿ\n
+hṛd-deśe \'rjuna tiṣṭhati\n
+bhrāmayan sarva-bhūtāni\n
+yantrārūḍhāni māyayā</string>
+
+<string name="ssloka18062">तमेव शरणं गच्छ सर्वभावेन भारत ।\n
+तत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् ॥६२॥</string>
+<string name="esloka18062">tam eva śaraṇaḿ gaccha\n
+sarva-bhāvena bhārata\n
+tat-prasādāt parāḿ śāntiḿ\n
+sthānaḿ prāpsyasi śāśvatam</string>
+
+<string name="ssloka18063">इति ते ज्ञानमाख्यातं गुह्याद्‌गुह्यतरं मया ।\n
+विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥६३॥</string>
+<string name="esloka18063">iti te jñānam ākhyātaḿ\n
+guhyād guhyataraḿ mayā\n
+vimṛśyaitad aśeṣeṇa\n
+yathecchasi tathā kuru</string>
+
+<string name="ssloka18064">सर्वगुह्यतमं भूयः शृणु मे परमं वचः ।\n
+इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् ॥६४॥</string>
+<string name="esloka18064">sarva-guhyatamaḿ bhūyaḥ\n
+śṛṇu me paramaḿ vacaḥ\n
+iṣṭo \'si me dṛḍham iti\n
+tato vakṣyāmi te hitam</string>
+
+<string name="ssloka18065">मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।\n
+मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे ॥६५॥</string>
+<string name="esloka18065">man-manā bhava mad-bhakto\n
+mad-yājī māḿ namaskuru\n
+mām evaiṣyasi satyaḿ te\n
+pratijāne priyo \'si me</string>
+
+<string name="ssloka18066">सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।\n
+अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ॥६६॥</string>
+<string name="esloka18066">sarva-dharmān parityajya\n
+mām ekaḿ śaraṇaḿ vraja\n
+ahaḿ tvāḿ sarva-pāpebhyo\n
+mokṣayiṣyāmi mā śucaḥ</string>
+
+<string name="ssloka18067">इदं ते नातपस्काय नाभक्ताय कदाचन ।\n
+न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति ॥६७॥</string>
+<string name="esloka18067">idaḿ te nātapaskāya\n
+nābhaktāya kadācana\n
+na cāśuśrūṣave vācyaḿ\n
+na ca māḿ yo \'bhyasūyati</string>
+
+<string name="ssloka18068">य इमं परमं गुह्यं मद्भक्तेष्वभिधास्यति ।\n
+भक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः ॥६८॥</string>
+<string name="esloka18068">ya idaḿ paramaḿ guhyaḿ\n
+mad-bhakteṣv abhidhāsyati\n
+bhaktiḿ mayi parāḿ kṛtvā\n
+mām evaiṣyaty asaḿśayaḥ</string>
+
+<string name="ssloka18069">न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः ।\n
+भविता न च मे तस्मादन्यः प्रियतरो भुवि ॥६९॥</string>
+<string name="esloka18069">na ca tasmān manuṣyeṣu\n
+kaścin me priya-kṛttamaḥ\n
+bhavitā na ca me tasmād\n
+anyaḥ priyataro bhuvi</string>
+
+<string name="ssloka18070">अध्येष्यते च य इमं धर्म्यं संवादमावयोः ।\n
+ज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः ॥७०॥</string>
+<string name="esloka18070">adhyeṣyate ca ya imaḿ\n
+dharmyaḿ saḿvādam āvayoḥ\n
+jñāna-yajñena tenāham\n
+iṣṭaḥ syām iti me matiḥ</string>
+
+<string name="ssloka18071">श्रद्धावाननसूयश्च शृणुयादपि यो नरः ।\n
+सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् ॥७१॥</string>
+<string name="esloka18071">śraddhāvān anasūyaś ca\n
+śṛṇuyād api yo naraḥ\n
+so \'pi muktaḥ śubhāl lokān\n
+prāpnuyāt puṇya-karmaṇām</string>
+
+<string name="ssloka18072">कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा ।\n
+कच्चिदज्ञानसंमोहः प्रनष्टस्ते धनंजय ॥७२॥</string>
+<string name="esloka18072">kaccid etac chrutaḿ pārtha\n
+tvayaikāgreṇa cetasā\n
+kaccid ajñāna-sammohaḥ\n
+praṇaṣṭas te dhanañjaya</string>
+
+<string name="ssloka18073">अर्जुन उवाच\n
+नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत ।\n
+स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव ॥७३॥</string>
+<string name="esloka18073">arjuna uvāca\n
+naṣṭo mohaḥ smṛtir labdhā\n
+tvat-prasādān mayācyuta\n
+sthito \'smi gata-sandehaḥ\n
+kariṣye vacanaḿ tava</string>
+
+<string name="ssloka18074">संजय उवाच\n
+इत्यहं वासुदेवस्य पार्थस्य च महात्मनः ।\n
+संवादमिममश्रौषमद्भुतं रोमहर्षणम् ॥७४॥</string>
+<string name="esloka18074">sañjaya uvāca\n
+ity ahaḿ vāsudevasya\n
+pārthasya ca mahātmanaḥ\n
+saḿvādam imam aśrauṣam\n
+adbhutaḿ roma-harṣaṇam</string>
+
+<string name="ssloka18075">सप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् ।\n
+योगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम् ॥७५॥</string>
+<string name="esloka18075">vyāsa-prasādāc chrutavān\n
+etad guhyam ahaḿ param\n
+yogaḿ yogeśvarāt kṛṣṇāt\n
+sākṣāt kathayataḥ svayam</string>
+
+<string name="ssloka18076">राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् ।\n
+केशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः ॥७६॥</string>
+<string name="esloka18076">rājan saḿsmṛtya saḿsmṛtya\n
+saḿvādam imam adbhutam\n
+keśavārjunayoḥ puṇyaḿ\n
+hṛṣyāmi ca muhur muhuḥ</string>
+
+<string name="ssloka18077">तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः ।\n
+विस्मयो मे महान् राजन्हृष्यामि च पुनः पुनः ॥७७॥</string>
+<string name="esloka18077">tac ca saḿsmṛtya saḿsmṛtya\n
+rūpam aty-adbhutaḿ hareḥ\n
+vismayo me mahān rājan\n
+hṛṣyāmi ca punaḥ punaḥ</string>
+
+<string name="ssloka18078">यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।\n
+तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ॥७८॥</string>
+<string name="esloka18078">yatra yogeśvaraḥ kṛṣṇo\n
+yatra pārtho dhanur-dharaḥ\n
+tatra śrīr vijayo bhūtir\n
+dhruvā nītir matir mama</string>
+</resources>

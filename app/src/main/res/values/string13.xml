@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="esloka13001">arjuna uvāca\n
+prakṛtiḿ puruṣaḿ caiva\n
+kṣetraḿ kṣetra-jñam eva ca\n
+etad veditum icchāmi\n
+jñānaḿ jñeyaḿ ca keśava</string>
+<string name="ssloka13001">अर्जुन उवाच\n
+प्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च ।\n
+एतद्वेदितुमिच्छामि ज्ञानं ज्ञेयं च केशव  ॥२॥</string>
+<string name="esloka13002">śrī-bhagavān uvāca\n
+idaḿ śarīraḿ kaunteya\n
+kṣetram ity abhidhīyate\n
+etad yo vetti taḿ prāhuḥ\n
+kṣetra-jña iti tad-vidaḥ</string>
+<string name="ssloka13002">श्रीभगवानुवाच\n
+इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते ।\n
+एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः ॥२॥</string>
+<string name="esloka13003">kṣetra-jñaḿ cāpi māḿ viddhi\n
+sarva-kṣetreṣu bhārata\n
+kṣetra-kṣetrajñayor jñānaḿ\n
+yat taj jñānaḿ mataḿ mama</string>
+<string name="ssloka13003">क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत ।\n
+क्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत्तज्ज्ञानं मतं मम ॥३॥ </string>
+<string name="esloka13004">tat kṣetraḿ yac ca yādṛk ca\n
+yad-vikāri yataś ca yat\n
+sa ca yo yat-prabhāvaś ca\n
+tat samāsena me śṛṇu</string>
+<string name="ssloka13004">तत्क्षेत्रं यच्च यादृक्च यद्विकारि यतश्च यत् ।\n
+स च यो यत्प्रभावश्च तत्समासेन मे शृणु ॥४॥</string>
+<string name="esloka13005">ṛṣibhir bahudhā gītaḿ\n
+chandobhir vividhaiḥ pṛthak\n
+brahma-sūtra-padaiś caiva\n
+hetumadbhir viniścitaiḥ</string>
+<string name="ssloka13005">ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक् ।\n
+ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितैः ॥५॥</string>
+<string name="esloka13006">mahā-bhūtāny ahańkāro\n
+buddhir avyaktam eva ca\n
+indriyāṇi daśaikaḿ ca\n
+pañca cendriya-gocarāḥ</string>
+<string name="ssloka13006">महाभूतान्यहंकारो बुद्धिरव्यक्तमेव च ।\n
+इन्द्रियाणि दशैकं च पञ्च चेन्द्रियगोचराः ॥६॥  </string>
+<string name="esloka13007">icchā dveṣaḥ sukhaḿ duḥkhaḿ\n
+sańghātaś cetanā dhṛtiḥ\n
+etat kṣetraḿ samāsena\n
+sa-vikāram udāhṛtam</string>
+<string name="ssloka13007">इच्छा द्वेषः सुखं दुःखं संघातश्चेतना धृतिः ।\n
+एतत्क्षेत्रं समासेन सविकारमुदाहृतम् ॥७॥</string>
+<string name="esloka13008">amānitvam adambhitvam\n
+ahiḿsā kṣāntir ārjavam\n
+ācāryopāsanaḿ śaucaḿ\n
+sthairyam ātma-vinigrahaḥ</string>
+<string name="ssloka13008">अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम् ।\n
+आचार्योपासनं शौचं स्थैर्यमात्मविनिग्रहः ॥८॥</string>
+<string name="esloka13009">indriyārtheṣu vairāgyam\n
+anahańkāra eva ca\n
+janma-mṛtyu-jarā-vyādhi-\n
+duḥkha-doṣānudarśanam</string>
+<string name="ssloka13009">इन्द्रियार्थेषु वैराग्यमनहंकार एव च ।\n
+जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम् ॥९॥</string>
+<string name="esloka13010">asaktir anabhiṣvańgaḥ\n
+putra-dāra-gṛhādiṣu\n
+nityaḿ ca sama-cittatvam\n
+iṣṭāniṣṭopapattiṣu</string>
+<string name="ssloka13010">असक्तिरनभिष्वङ्गः पुत्रदारगृहादिषु ।\n
+नित्यं च समचित्तत्वमिष्टानिष्टोपपत्तिषु ॥१०॥</string>
+<string name="esloka13011">mayi cānanya-yogena\n
+bhaktir avyabhicāriṇī\n
+vivikta-deśa-sevitvam\n
+aratir jana-saḿsadi</string>
+<string name="ssloka13011">मयि चानन्ययोगेन भक्तिरव्यभिचारिणी ।\n
+विविक्तदेशसेवित्वमरतिर्जनसंसदि ॥११॥  </string>
+<string name="esloka13012">adhyātma-jñāna-nityatvaḿ\n
+tattva-jñānārtha-darśanam\n
+etaj jñānam iti proktam\n
+ajñānaḿ yad ato \'nyathā</string>
+<string name="ssloka13012">अध्यात्मज्ञाननित्यत्वं तत्त्वज्ञानार्थदर्शनम् ।\n
+एतज्ज्ञानमिति प्रोक्तमज्ञानं यदतोऽन्यथा ॥१२॥</string>
+<string name="esloka13013">jñeyaḿ yat tat pravakṣyāmi\n
+yaj jñātvāmṛtam aśnute\n
+anādi mat-paraḿ brahma\n
+na sat tan nāsad ucyate</string>
+<string name="ssloka13013">ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वामृतमश्नुते ।\n
+अनादि मत्परं ब्रह्म न सत्तन्नासदुच्यते ॥१३॥</string>
+<string name="esloka13014">sarvataḥ pāṇi-pādaḿ tat\n
+sarvato \'kṣi-śiro-mukham\n
+sarvataḥ śrutimal loke\n
+sarvam āvṛtya tiṣṭhati</string>
+<string name="ssloka13014">सर्वतः पाणिपादं तत्सर्वतोऽक्षिशिरोमुखम् ।\n
+सर्वतः श्रुतिमल्लोके सर्वमावृत्य तिष्ठति ॥१४॥</string>
+<string name="esloka13015">sarvendriya-guṇābhāsaḿ\n
+sarvendriya-vivarjitam\n
+asaktaḿ sarva-bhṛc caiva\n
+nirguṇaḿ guṇa-bhoktṛ ca</string>
+<string name="ssloka13015">सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम् ।\n
+असक्तं सर्वभृच्चैव निर्गुणं गुणभोक्तृ च ॥१५॥ </string>
+<string name="esloka13016">bahir antaś ca bhūtānām\n
+acaraḿ caram eva ca\n
+sūkṣmatvāt tad avijñeyaḿ\n
+dūra-sthaḿ cāntike ca tat</string>
+<string name="ssloka13016">बहिरन्तश्च भूतानामचरं चरमेव च ।\n
+सूक्ष्मत्वात्तदविज्ञेयं दूरस्थं चान्तिके च तत् ॥१६॥</string>
+<string name="esloka13017">avibhaktaḿ ca bhūteṣu\n
+vibhaktam iva ca sthitam\n
+bhūta-bhartṛ ca taj jñeyaḿ\n
+grasiṣṇu prabhaviṣṇu ca</string>
+<string name="ssloka13017">अविभक्तं च भूतेषु विभक्तमिव च स्थितम् ।\n
+भूतभर्तृ च तज्ज्ञेयं ग्रसिष्णु प्रभविष्णु च ॥१७॥</string>
+<string name="esloka13018">jyotiṣām api taj jyotis\n
+tamasaḥ param ucyate\n
+jñānaḿ jñeyaḿ jñāna-gamyaḿ\n
+hṛdi sarvasya viṣṭhitam</string>
+<string name="ssloka13018">ज्योतिषामपि तज्ज्योतिस्तमसः परमुच्यते ।\n
+ज्ञानं ज्ञेयं ज्ञानगम्यं हृदि सर्वस्य विष्ठितम् ॥१८॥</string>
+<string name="esloka13019">iti kṣetraḿ tathā jñānaḿ\n
+jñeyaḿ coktaḿ samāsataḥ\n
+mad-bhakta etad vijñāya\n
+mad-bhāvāyopapadyate</string>
+<string name="ssloka13019">इति क्षेत्रं तथा ज्ञानं ज्ञेयं चोक्तं समासतः ।\n
+मद्भक्त एतद्विज्ञाय मद्भावायोपपद्यते ॥१९॥</string>
+<string name="esloka13020">prakṛtiḿ puruṣaḿ caiva\n
+viddhy anādī ubhāv api\n
+vikārāḿś ca guṇāḿś caiva\n
+viddhi prakṛti-sambhavān</string>
+<string name="ssloka13020">प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि ।\n
+विकारांश्च गुणांश्चैव विद्धि प्रकृतिसंभवान् ॥२०॥</string>
+<string name="esloka13021">kārya-kāraṇa-kartṛtve\n
+hetuḥ prakṛtir ucyate\n
+puruṣaḥ sukha-duḥkhānāḿ\n
+bhoktṛtve hetur ucyate</string>
+<string name="ssloka13021">कार्यकरणकर्तृत्वे हेतुः प्रकृतिरुच्यते ।\n
+पुरुषः सुखदुःखानां भोक्तृत्वे हेतुरुच्यते ॥२१॥</string>
+<string name="esloka13022">puruṣaḥ prakṛti-stho hi\n
+bhuńkte prakṛti-jān guṇān\n
+kāraṇaḿ guṇa-sańgo \'sya\n
+sad-asad-yoni-janmasu</string>
+<string name="ssloka13022">पुरुषः प्रकृतिस्थो हि भुङ्‌क्ते प्रकृतिजान्गुणान् ।\n
+कारणं गुणसङ्गोऽस्य सदसद्योनिजन्मसु ॥२२॥</string>
+<string name="esloka13023">upadraṣṭānumantā ca\n
+bhartā bhoktā maheśvaraḥ\n
+paramātmeti cāpy ukto\n
+dehe \'smin puruṣaḥ paraḥ</string>
+<string name="ssloka13023">उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वरः ।\n
+परमात्मेति चाप्युक्तो देहेऽस्मिन्पुरुषः परः ॥२३॥</string>
+<string name="esloka13024">ya evaḿ vetti puruṣaḿ\n
+prakṛtiḿ ca guṇaiḥ saha\n
+sarvathā vartamāno \'pi\n
+na sa bhūyo \'bhijāyate</string>
+<string name="ssloka13024">य एवं वेत्ति पुरुषं प्रकृतिं च गुणैः सह ।\n
+सर्वथा वर्तमानोऽपि न स भूयोऽभिजायते ॥२४॥</string>
+<string name="esloka13025">dhyānenātmani paśyanti\n
+kecid ātmānam ātmanā\n
+anye sāńkhyena yogena\n
+karma-yogena cāpare</string>
+<string name="ssloka13025">ध्यानेनात्मनि पश्यन्ति केचिदात्मानमात्मना ।\n
+अन्ये सांख्येन योगेन कर्मयोगेन चापरे ॥२५॥</string>
+<string name="esloka13026">anye tv evam ajānantaḥ\n
+śrutvānyebhya upāsate\n
+te \'pi cātitaranty eva\n
+mṛtyuḿ śruti-parāyaṇāḥ</string>
+<string name="ssloka13026">अन्ये त्वेवमजानन्तः श्रुत्वान्येभ्य उपासते ।\n
+तेऽपि चातितरन्त्येव मृत्युं श्रुतिपरायणाः ॥२६॥</string>
+<string name="esloka13027">yāvat sañjāyate kiñcit\n
+sattvaḿ sthāvara-jańgamam\n
+kṣetra-kṣetrajña-saḿyogāt\n
+tad viddhi bharatarṣabha</string>
+<string name="ssloka13027">यावत्संजायते किंचित्सत्त्वं स्थावरजङ्गमम् ।\n
+क्षेत्रक्षेत्रज्ञसंयोगात्तद्विद्धि भरतर्षभ ॥२७॥</string>
+<string name="esloka13028">samaḿ sarveṣu bhūteṣu\n
+tiṣṭhantaḿ parameśvaram\n
+vinaśyatsv avinaśyantaḿ\n
+yaḥ paśyati sa paśyati</string>
+<string name="ssloka13028">समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् ।\n
+विनश्यत्स्वविनश्यन्तं यः पश्यति स पश्यति ॥२८॥ </string>
+<string name="esloka13029">samaḿ paśyan hi sarvatra\n
+samavasthitam īśvaram\n
+na hinasty ātmanātmānaḿ\n
+tato yāti parāḿ gatim</string>
+<string name="ssloka13029">समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम् ।\n
+न हिनस्त्यात्मनात्मानं ततो याति परां गतिम् ॥२९॥</string>
+<string name="esloka13030">prakṛtyaiva ca karmāṇi\n
+kriyamāṇāni sarvaśaḥ\n
+yaḥ paśyati tathātmānam\n
+akartāraḿ sa paśyati</string>
+<string name="ssloka13030">प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वशः ।\n
+यः पश्यति तथात्मानमकर्तारं स पश्यति ॥३०॥</string>
+<string name="esloka13031">yadā bhūta-pṛthag-bhāvam\n
+eka-stham anupaśyati\n
+tata eva ca vistāraḿ\n
+brahma sampadyate tadā</string>
+<string name="ssloka13031">यदा भूतपृथग्भावमेकस्थमनुपश्यति ।\n
+तत एव च विस्तारं ब्रह्म संपद्यते तदा ॥३१॥ </string>
+<string name="esloka13032">anāditvān nirguṇatvāt\n
+paramātmāyam avyayaḥ\n
+śarīra-stho \'pi kaunteya\n
+na karoti na lipyate</string>
+<string name="ssloka13032">अनादित्वान्निर्गुणत्वात्परमात्मायमव्ययः ।\n
+शरीरस्थोऽपि कौन्तेय न करोति न लिप्यते ॥३२॥</string>
+<string name="esloka13033">yathā sarva-gataḿ saukṣmyād\n
+ākāśaḿ nopalipyate\n
+sarvatrāvasthito dehe\n
+tathātmā nopalipyate</string>
+<string name="ssloka13033">यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते ।\n
+सर्वत्रावस्थितो देहे तथात्मा नोपलिप्यते ॥३३॥</string>
+<string name="esloka13034">yathā prakāśayaty ekaḥ\n
+kṛtsnaḿ lokam imaḿ raviḥ\n
+kṣetraḿ kṣetrī tathā kṛtsnaḿ\n
+prakāśayati bhārata</string>
+<string name="ssloka13034">यथा प्रकाशयत्येकः कृत्स्नं लोकमिमं रविः ।\n
+क्षेत्रं क्षेत्री तथा कृत्स्नं प्रकाशयति भारत ॥३४॥</string>
+<string name="esloka13035">kṣetra-kṣetrajñayor evam\n
+antaraḿ jñāna-cakṣuṣā\n
+bhūta-prakṛti-mokṣaḿ ca\n
+ye vidur yānti te param</string>
+<string name="ssloka13035">क्षेत्रक्षेत्रज्ञयोरेवमन्तरं ज्ञानचक्षुषा ।\n
+भूतप्रकृतिमोक्षं च ये विदुर्यान्ति ते परम् ॥३५॥</string>
+
+</resources>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="esloka9001">śrī-bhagavān uvāca\n
+idaḿ tu te guhyatamaḿ\n
+pravakṣyāmy anasūyave\n
+jñānaḿ vijñāna-sahitaḿ\n
+yaj jñātvā mokṣyase \'śubhāt</string>
+ <string name="ssloka9001">श्रीभगवानुवाच\n
+इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे ।\n
+ज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ॥१॥</string>
+ <string name="esloka9002">rāja-vidyā rāja-guhyaḿ\n
+pavitram idam uttamam\n
+pratyakṣāvagamaḿ dharmyaḿ\n
+su-sukhaḿ kartum avyayam\n
+</string>
+ <string name="ssloka9002">राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् ।\n
+प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् ॥२॥</string>
+ <string name="esloka9003">aśraddadhānāḥ puruṣā\n
+dharmasyāsya parantapa\n
+aprāpya māḿ nivartante\n
+mṛtyu-saḿsāra-vartmani</string>
+ <string name="ssloka9003">अश्रद्दधानाः पुरुषा धर्मस्यास्य परन्तप ।\n
+अप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि ॥३॥</string>
+ <string name="esloka9004">mayā tatam idaḿ sarvaḿ\n
+jagad avyakta-mūrtinā\n
+mat-sthāni sarva-bhūtāni\n
+na cāhaḿ teṣv avasthitaḥ</string>
+ <string name="ssloka9004">मया ततमिदं सर्वं जगदव्यक्तमूर्तिना ।\n
+मत्स्थानि सर्वभूतानि न चाहं तेष्ववस्थितः ॥४॥</string>
+ <string name="esloka9005">na ca mat-sthāni bhūtāni\n
+paśya me yogam aiśvaram\n
+bhūta-bhṛn na ca bhūta-stho\n
+mamātmā bhūta-bhāvanaḥ</string>
+ <string name="ssloka9005">न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् ।\n
+भूतभृन्न च भूतस्थो ममात्मा भूतभावनः ॥५॥</string>
+ <string name="esloka9006">yathākāśa-sthito nityaḿ\n
+vāyuḥ sarvatra-go mahān\n
+tathā sarvāṇi bhūtāni\n
+mat-sthānīty upadhāraya</string>
+ <string name="ssloka9006">यथाकाशस्थितो नित्यं वायुः सर्वत्रगो महान् ।\n
+तथा सर्वाणि भूतानि मत्स्थानीत्युपधारय ॥६॥</string>
+ <string name="esloka9007">sarva-bhūtāni kaunteya\n
+prakṛtiḿ yānti māmikām\n
+kalpa-kṣaye punas tāni\n
+kalpādau visṛjāmy aham</string>
+ <string name="ssloka9007">सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् ।\n
+कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् ॥७॥</string>
+ <string name="esloka9008">prakṛtiḿ svām avaṣṭabhya\n
+visṛjāmi punaḥ punaḥ\n
+bhūta-grāmam imaḿ kṛtsnam\n
+avaśaḿ prakṛter vaśāt</string>
+ <string name="ssloka9008">प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः ।\n
+भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात् ॥८॥</string>
+ <string name="esloka9009">na ca māḿ tāni karmāṇi\n
+nibadhnanti dhanañjaya\n
+udāsīna-vad āsīnam\n
+asaktaḿ teṣu karmasu</string>
+ <string name="ssloka9009">न च मां तानि कर्माणि निबध्नन्ति धनंजय ।\n
+उदासीनवदासीनमसक्तं तेषु कर्मसु ॥९॥</string>
+ <string name="esloka9010">mayādhyakṣeṇa prakṛtiḥ\n
+sūyate sa-carācaram\n
+hetunānena kaunteya\n
+jagad viparivartate</string>
+ <string name="ssloka9010">मयाध्यक्षेण प्रकृतिः सूयते सचराचरम् ।\n
+हेतुनानेन कौन्तेय जगद्विपरिवर्तते ॥१०॥</string>
+ <string name="esloka9011">avajānanti māḿ mūḍhā\n
+mānuṣīḿ tanum āśritam\n
+paraḿ bhāvam ajānanto\n
+mama bhūta-maheśvaram</string>
+ <string name="ssloka9011">अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् ।\n
+परं भावमजानन्तो मम भूतमहेश्वरम् ॥११॥</string>
+ <string name="esloka9012">moghāśā mogha-karmāṇo\n
+mogha-jñānā vicetasaḥ\n
+rākṣasīm āsurīḿ caiva\n
+prakṛtiḿ mohinīḿ śritāḥ</string>
+ <string name="ssloka9012">मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः ।
+राक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः ॥१२॥</string>
+ <string name="esloka9013">mahātmānas tu māḿ pārtha\n
+daivīḿ prakṛtim āśritāḥ\n
+bhajanty ananya-manaso\n
+jñātvā bhūtādim avyayam</string>
+ <string name="ssloka9013">महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः ।
+भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् ॥१३॥</string>
+ <string name="esloka9014">satataḿ kīrtayanto māḿ\n
+yatantaś ca dṛḍha-vratāḥ\n
+namasyantaś ca māḿ bhaktyā\n
+nitya-yuktā upāsate</string>
+ <string name="ssloka9014">सततं कीर्तयन्तो मां यतन्तश्च दृढव्रताः ।
+नमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते ॥१४॥</string>
+ <string name="esloka9015">jñāna-yajñena cāpy anye\n
+yajanto mām upāsate\n
+ekatvena pṛthaktvena\n
+bahudhā viśvato-mukham</string>
+ <string name="ssloka9015">ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते ।\n
+एकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम् ॥१५॥</string>
+ <string name="esloka9016">ahaḿ kratur ahaḿ yajñaḥ\n
+svadhāham aham auṣadham\n
+mantro \'ham aham evājyam\n
+aham agnir ahaḿ hutam</string>
+ <string name="ssloka9016">अहं क्रतुरहं यज्ञः स्वधाहमहमौषधम् ।
+मन्त्रोऽहमहमेवाज्यमहमग्निरहं हुतम् ॥१६॥</string>
+ <string name="esloka9017">pitāham asya jagato\n
+ mātā dhātā pitāmahaḥ\n
+vedyaḿ pavitram oḿkāra\n
+ṛk sāma yajur eva ca</string>
+ <string name="ssloka9017">पिताहमस्य जगतो माता धाता पितामहः ।
+वेद्यं पवित्रमोंकार ऋक्साम यजुरेव च ॥१७॥</string>
+ <string name="esloka9018">gatir bhartā prabhuḥ sākṣī\n
+nivāsaḥ śaraṇaḿ suhṛt\n
+prabhavaḥ pralayaḥ sthānaḿ\n
+nidhānaḿ bījam avyayam</string>
+ <string name="ssloka9018">गतिर्भर्ता प्रभुः साक्षी निवासः शरणं सुहृत् ।
+प्रभवः प्रलयः स्थानं निधानं बीजमव्ययम् ॥१८॥</string>
+ <string name="esloka9019">तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च ।
+अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन ॥१९॥</string> 
+ <string name="ssloka9019">tapāmy aham ahaḿ varṣaḿ\n
+nigṛhṇāmy utsṛjāmi ca\n
+amṛtaḿ caiva mṛtyuś ca\n
+sad asac cāham arjuna</string>
+ <string name="esloka9020">त्रैविद्या मां सोमपाः पूतपापा\n
+ यज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते ।\n
+ते पुण्यमासाद्य सुरेन्द्रलोक-\n
+मश्नन्ति दिव्यान्दिवि देवभोगान् ॥२०॥</string>
+ <string name="ssloka9020">trai-vidyā māḿ soma-pāḥ pūta-pāpā\n
+yajñair iṣṭvā svar-gatiḿ prārthayante\n
+te puṇyam āsādya surendra-lokam\n
+aśnanti divyān divi deva-bhogān</string>
+ <string name="esloka9021">te taḿ bhuktvā svarga-lokaḿ viśālaḿ\n
+kṣīṇe puṇye martya-lokaḿ viśanti\n
+evaḿ trayī-dharmam anuprapannā\n
+gatāgataḿ kāma-kāmā labhante</string>
+ <string name="ssloka9021">ते तं भुक्त्वा स्वर्गलोकं विशालं
+क्षीणे पुण्ये मर्त्यलोकं विशन्ति ।
+एवं त्रयीधर्ममनुप्रपन्ना
+गतागतं कामकामा लभन्ते ॥२१॥</string>
+ <string name="esloka9022">ananyāś cintayanto māḿ\n
+ ye janāḥ paryupāsate\n
+teṣāḿ nityābhiyuktānāḿ\n
+yoga-kṣemaḿ vahāmy aham</string>
+ <string name="ssloka9022">अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।\n
+तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥२२॥</string>
+ <string name="esloka9023">ye \'py anya-devatā-bhaktā\n
+yajante śraddhayānvitāḥ\n
+te \'pi mām eva kaunteya\n
+yajanty avidhi-pūrvakam</string>
+ <string name="ssloka9023">येऽप्यन्यदेवताभक्ता यजन्ते श्रद्धयान्विताः ।\n
+तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम् ॥२३॥</string>
+ <string name="esloka9024">ahaḿ hi sarva-yajñānāḿ\n
+bhoktā ca prabhur eva ca\n
+na tu mām abhijānanti\n
+tattvenātaś cyavanti te</string>
+ <string name="ssloka9024">अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च ।\n
+न तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते ॥२४॥</string>
+ <string name="esloka9025">yānti deva-vratā devān\n
+pitṝn yānti pitṛ-vratāḥ\n
+bhūtāni yānti bhūtejyā\n
+yānti mad-yājino \'pi mām</string>
+ <string name="ssloka9025">यान्ति देवव्रता देवान्पितॄन्यान्ति पितृव्रताः ।
+भूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम् ॥२५॥</string>
+ <string name="esloka9026">patraḿ puṣpaḿ phalaḿ toyaḿ\n
+yo me bhaktyā prayacchati\n
+tad ahaḿ bhakty-upahṛtam\n
+aśnāmi prayatātmanaḥ</string>
+ <string name="ssloka9026">पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।\n
+तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥२६॥</string>
+ <string name="esloka9027">yat karoṣi yad aśnāsi\n
+yaj juhoṣi dadāsi yat\n
+yat tapasyasi kaunteya\n
+tat kuruṣva mad-arpaṇam</string>
+ <string name="ssloka9027">यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् ।\n
+यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ॥२७॥</string>
+ <string name="esloka9028">śubhāśubha-phalair evaḿ\n
+mokṣyase karma-bandhanaiḥ\n
+sannyāsa-yoga-yuktātmā\n
+vimukto mām upaiṣyasi</string>
+ <string name="ssloka9028">शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनैः ।\n
+संन्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि ॥२८॥</string>
+ <string name="ssloka9029">समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः ।\n
+ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ॥२९॥</string>
+ <string name="esloka9029">samo \'haḿ sarva-bhūteṣu\n
+na me dveṣyo \'sti na priyaḥ\n
+ye bhajanti tu māḿ bhaktyā\n
+mayi te teṣu cāpy aham</string>
+ <string name="esloka9030">api cet su-durācāro\n
+bhajate mām ananya-bhāk\n
+sādhur eva sa mantavyaḥ\n
+samyag vyavasito hi saḥ</string>
+ <string name="ssloka9030">अपि चेत्सुदुराचारो भजते मामनन्यभाक् ।\n
+साधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः ॥३०॥</string>
+ <string name="esloka9031">kṣipraḿ bhavati dharmātmā\n
+ śaśvac-chāntiḿ nigacchati\n
+kaunteya pratijānīhi\n
+na me bhaktaḥ praṇaśyati</string>
+ <string name="ssloka9031">क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति ।\n
+कौन्तेय प्रति जानीहि न मे भक्तः प्रणश्यति ॥३१॥</string>
+ <string name="esloka9032">māḿ hi pārtha vyapāśritya\n
+ye \'pi syuḥ pāpa-yonayaḥ\n
+striyo vaiśyās tathā śūdrās\n
+te \'pi yānti parāḿ gatim</string>
+ <string name="ssloka9032">मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः ।\n
+स्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम् ॥३२॥</string>
+ <string name="ssloka9033">किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा ।\n
+अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् ॥३३॥</string>
+ <string name="esloka9033">kiḿ punar brāhmaṇāḥ puṇyā\n
+bhaktā rājarṣayas tathā\n
+anityam asukhaḿ lokam\n
+imaḿ prāpya bhajasva mām</string>
+ <string name="ssloka9034">मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।\n
+मामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः ॥३४॥</string>
+ <string name="esloka9034">man-manā bhava mad-bhakto\n
+mad-yājī māḿ namaskuru\n
+mām evaiṣyasi yuktvaivam\n
+ātmānaḿ mat-parāyaṇaḥ</string>
+</resources>

@@ -1,0 +1,330 @@
+<resources>
+    <string name="app_name">Gita Learn Chanting</string>
+    <string name="Wordplay">Play</string>
+    <string name="textview">TextView</string>
+    <string name="normplay_pause">NormPlay/pause</string>
+    <string name="about">About\nThis Application is designed for students interested in Learning to chant BagavatGita.\nHow to Use:\n
+    In sloka page on the top Right corner you can find a toggle button to change modes either to listen or learn in learn mode,Master utters some part of
+    sloka and you will be given time to Repeat and in listen mode you can <l></l>isten complete sloka.</string>
+
+
+    <string name="esloka1001">|| prathamo\'dhyāyaḥ ||\n || arjunaviṣādayogaḥ ||
+    dhṛtarāṣṭra uvāca:\n
+dharma-kṣetre kuru-kṣetre\n
+samavetā yuyutsavaḥ\n
+māmakāḥ pāṇḍavāś caiva\n
+kim akurvata sañjaya\n</string>
+
+    <string name="ssloka1001"> ॥ प्रथमोऽध्यायः ॥\n॥ अर्जुनविषादयोगः ॥\nधृतराष्ट्र उवाच \n
+धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।\n
+मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥१॥\n</string>
+
+    <string name="esloka1002">sañjaya uvāca:\n
+dṛṣṭvā tu pāṇḍavānīkaḿ\n
+vyūḍhaḿ duryodhanas tadā\n
+ācāryam upasańgamya\n
+rājā vacanam abravīt\n</string>
+
+    <string name="ssloka1002">सञ्जय उवाच\n
+दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।\n
+आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥२॥\n</string>
+
+    <string name="esloka1003">paśyaitāḿ pāṇḍu-putrāṇām\n
+ācārya mahatīḿ camūm\n
+vyūḍhāḿ drupada-putreṇa\n
+tava śiṣyeṇa dhīmatā\n</string>
+
+    <string name="ssloka1003">पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।\n
+व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥३॥\n</string>
+
+    <string name="esloka1004">atra śūrā maheṣv-āsā\n
+
+bhīmārjuna-samā yudhi\n
+
+yuyudhāno virāṭaś ca\n
+
+drupadaś ca mahā-rathaḥ</string>
+    <string name="esloka1005">
+dhṛṣṭaketuś cekitānaḥ\n
+
+kāśirājaś ca vīryavān\n
+
+purujit kuntibhojaś ca\n
+
+śaibyaś ca nara-puńgavaḥ</string>
+    <string name="esloka1006">yudhāmanyuś ca vikrānta\n
+uttamaujāś ca vīryavān\n
+saubhadro draupadeyāś ca\n
+sarva eva mahā-rathāḥ</string>
+    <string name="esloka1007">asmākaḿ tu viśiṣṭā ye\n
+tān nibodha dvijottama\n
+nāyakā mama sainyasya\n
+saḿjñārthaḿ tān bravīmi te</string>
+    <string name="esloka1008">bhavān bhīṣmaś ca karṇaś ca\n
+kṛpaś ca samitiḿ-jayaḥ\n
+aśvatthāmā vikarṇaś ca\n
+saumadattis tathaiva ca</string>
+    <string name="esloka1009">anye ca bahavaḥ śūrā\n
+mad-arthe tyakta-jīvitāḥ\n
+nānā-śastra-praharaṇāḥ\n
+sarve yuddha-viśāradāḥ</string>
+    <string name="esloka1010">aparyāptaḿ tad asmākaḿ\n
+balaḿ bhīṣmābhirakṣitam\n
+paryāptaḿ tv idam eteṣāḿ\n
+balaḿ bhīmābhirakṣitam</string>
+    <string name="esloka1011">ayaneṣu ca sarveṣu\n
+yathā-bhāgam avasthitāḥ\n
+bhīṣmam evābhirakṣantu\n
+bhavantaḥ sarva eva hi</string>
+    <string name="esloka1012">tasya sañjanayan harṣaḿ\n
+kuru-vṛddhaḥ pitāmahaḥ\n
+siḿha-nādaḿ vinadyoccaiḥ\n
+śańkhaḿ dadhmau pratāpavān</string>
+    <string name="esloka1013">tataḥ śańkhāś ca bheryaś ca\n
+paṇavānaka-gomukhāḥ\n
+sahasaivābhyahanyanta\n
+sa śabdas tumulo \'bhavat</string>
+    <string name="esloka1014">tataḥ śvetair hayair yukte\n
+mahati syandane sthitau\n
+mādhavaḥ pāṇḍavaś caiva\n
+divyau śańkhau pradadhmatuḥ</string>
+    <string name="esloka1015">pāñcajanyaḿ hṛṣīkeśo\n
+devadattaḿ dhanañjayaḥ\n
+pauṇḍraḿ dadhmau mahā-śańkhaḿ\n
+bhīma-karmā vṛkodaraḥ</string>
+    <string name="esloka1016">anantavijayaḿ rājā\n
+kuntī-putro yudhiṣṭhiraḥ\n
+nakulaḥ sahadevaś ca\n
+sughoṣa-maṇipuṣpakau</string>
+    <string name="esloka1017">kāśyaś ca parameṣv-āsaḥ\n
+śikhaṇḍī ca mahā-rathaḥ\n
+dhṛṣṭadyumno virāṭaś ca\n
+sātyakiś cāparājitaḥ</string>
+    <string name="esloka1018">drupado draupadeyāś ca\n
+sarvaśaḥ pṛthivī-pate\n
+saubhadraś ca mahā-bāhuḥ\n
+śańkhān dadhmuḥ pṛthak pṛthak</string>
+    <string name="esloka1019">sa ghoṣo dhārtarāṣṭrāṇāḿ\n
+hṛdayāni vyadārayat\n
+nabhaś ca pṛthivīḿ caiva\n
+tumulo \'bhyanunādayan</string>
+    <string name="esloka1020">atha vyavasthitān dṛṣṭvā\n
+dhārtarāṣṭrān kapi-dhvajaḥ\n
+pravṛtte śastra-sampāte\n
+    dhanur udyamya pāṇḍavaḥ</string>
+    <string name="esloka1021">hṛṣīkeśaḿ tadā vākyam\n
+idam āha mahī-pate\n
+arjuna uvāca\n
+senayor ubhayor madhye\n
+rathaḿ sthāpaya me \'cyuta\n</string>
+    <string name="esloka1022">
+yāvad etān nirīkṣe \'haḿ\n
+yoddhu-kāmān avasthitān
+kair mayā saha yoddhavyam\n
+asmin raṇa-samudyame</string>
+    <string name="esloka1023">yotsyamānān avekṣe \'haḿ\n
+ya ete \'tra samāgatāḥ\n
+dhārtarāṣṭrasya durbuddher\n
+yuddhe priya-cikīrṣavaḥ</string>
+    <string name="esloka1024">sañjaya uvāca\n
+evam ukto hṛṣīkeśo\n
+guḍākeśena bhārata\n
+senayor ubhayor madhye\n
+sthāpayitvā rathottamam</string>
+    <string name="esloka1025">bhīṣma-droṇa-pramukhataḥ\n
+sarveṣāḿ ca mahī-kṣitām\n
+uvāca pārtha paśyaitān\n
+samavetān kurūn iti</string>
+    <string name="esloka1026">tatrāpaśyat sthitān pārthaḥ\n
+pitṝn atha pitāmahān\n
+ācāryān mātulān bhrātṝn\n
+putrān pautrān sakhīḿs tathā\n</string>
+    <string name="esloka1027">śvaśurān suhṛdaś caiva\n
+senayor ubhayor api
+tān samīkṣya sa kaunteyaḥ
+sarvān bandhūn avasthitān\n</string>
+    <string name="esloka1028">
+kṛpayā parayāviṣṭo\n
+viṣīdann idam abravīt\n
+arjuna uvāca:-\n
+dṛṣṭvemaḿ sva-janaḿ kṛṣṇa\n
+yuyutsuḿ samupasthitam\n</string>
+    <string name="esloka1029">
+sīdanti mama gātrāṇi\n
+mukhaḿ ca pariśuṣyat\n
+vepathuś ca śarīre me\n
+roma-harṣaś ca jāyate</string>
+    <string name="esloka1030">gāṇḍīvaḿ sraḿsate hastāt\n
+tvak caiva paridahyate\n
+na ca śaknomy avasthātuḿ\n
+bhramatīva ca me manaḥ</string>
+    <string name="esloka1031">nimittāni ca paśyāmi\n
+viparītāni keśava\n
+na ca śreyo \'nupaśyāmi\n
+hatvā sva-janam āhave\n</string>
+    <string name="esloka1032">na kāńkṣe vijayaḿ kṛṣṇa\n
+na ca rājyaḿ sukhāni ca\n
+kiḿ no rājyena govinda\n
+kiḿ bhogair jīvitena vā</string>
+    <string name="esloka1033">
+yeṣām arthe kāńkṣitaḿ no\n
+rājyaḿ bhogāḥ sukhāni ca\n
+ta ime \'vasthitā yuddhe\n
+prāṇāḿs tyaktvā dhanāni ca</string>
+    <string name="esloka1034">ācāryāḥ pitaraḥ putrās\n
+tathaiva ca pitāmahāḥ\n
+mātulāḥ śvaśurāḥ pautrāḥ\n
+śyālāḥ sambandhinas tathā\n</string>
+    <string name="esloka1035">
+etān na hantum icchāmi\n
+ghnato \'pi madhusūdana\n
+api trailokya-rājyasya\n
+hetoḥ kiḿ nu mahī-kṛte</string>
+    <string name="esloka1036">nihatya dhārtarāṣṭrān naḥ\n
+kā prītiḥ syāj janārdana
+pāpam evāśrayed asmān\n
+hatvaitān ātatāyinaḥ\n</string>
+    <string name="esloka1037">tasmān nārhā vayaḿ hantuḿ\n
+dhārtarāṣṭrān sa-bāndhavān\n
+sva-janaḿ hi kathaḿ hatvā\n
+sukhinaḥ syāma mādhava</string>
+    <string name="esloka1038">yady apy ete na paśyanti\n
+lobhopahata-cetasaḥ\n
+kula-kṣaya-kṛtaḿ doṣaḿ\n
+mitra-drohe ca pātakam</string>
+    <string name="esloka1039">kathaḿ na jñeyam asmābhiḥ\n
+pāpād asmān nivartitum\n
+kula-kṣaya-kṛtaḿ doṣaḿ\n
+prapaśyadbhir janārdana</string>
+    <string name="esloka1040">kula-kṣaye praṇaśyanti\n
+kula-dharmāḥ sanātanāḥ\n
+dharme naṣṭe kulaḿ kṛtsnam\n
+adharmo \'bhibhavaty uta</string>
+    <string name="esloka1041">adharmābhibhavāt kṛṣṇa\n
+praduṣyanti kula-striyaḥ\n
+strīṣu duṣṭāsu vārṣṇeya\n
+jāyate varṇa-sańkaraḥ</string>
+    <string name="esloka1042">sańkaro narakāyaiva\n
+kula-ghnānāḿ kulasya ca\n
+patanti pitaro hy eṣāḿ\n
+lupta-piṇḍodaka-kriyāḥ</string>
+    <string name="esloka1043">doṣair etaiḥ kula-ghnānāḿ\n
+varṇa-sańkara-kārakaiḥ\n
+utsādyante jāti-dharmāḥ\n
+kula-dharmāś ca śāśvatāḥ</string>
+    <string name="esloka1044">utsanna-kula-dharmāṇāḿ\n
+manuṣyāṇāḿ janārdana\n
+narake niyataḿ vāso\n
+bhavatīty anuśuśruma</string>
+    <string name="esloka1045">aho bata mahat pāpaḿ\n
+kartuḿ vyavasitā vayam\n
+yad rājya-sukha-lobhena\n
+hantuḿ sva-janam udyatāḥ</string>
+    <string name="esloka1046">yadi mām apratīkāram\n
+aśastraḿ śastra-pāṇayaḥ\n
+dhārtarāṣṭrā raṇe hanyus\n
+tan me kṣemataraḿ bhavet</string>
+    <string name="esloka1047">sañjaya uvāca\n
+evam uktvārjunaḥ sańkhye\n
+rathopastha upāviśat\n
+visṛjya sa-śaraḿ cāpaḿ\n
+śoka-saḿvigna-mānasaḥ</string>
+
+    <string name="ssloka1004">अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।\n
+युयुधानो विराटश्च द्रुपदश्च महारथः ॥४॥</string>
+    <string name="ssloka1005">
+धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् ।\n
+पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ॥५॥</string>
+    <string name="ssloka1006">युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।\n
+सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥६॥</string>
+    <string name="ssloka1007">अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।\n
+नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥७॥</string>
+    <string name="ssloka1008">भवान्भीष्मश्च कर्णश्च कृपश्च समितिंजयः ।\n
+अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥८॥</string>
+    <string name="ssloka1009">अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः ।\n
+नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥९॥</string>
+    <string name="ssloka1010">अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् ।\n
+पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥१०॥</string>
+    <string name="ssloka1011">अयनेषु च सर्वेषु यथाभागमवस्थिताः ।\n
+भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ॥११॥</string>
+    <string name="ssloka1012">तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः ।\n
+सिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ॥१२॥</string>
+    <string name="ssloka1013">ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः ।\n
+सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ॥१३॥</string>
+    <string name="ssloka1014">ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ ।\n
+माधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ॥१४॥</string>
+    <string name="ssloka1015">पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः ।\n
+पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ॥१५॥</string>
+    <string name="ssloka1016">अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः ।\n
+नकुलः सहदेवश्च सुघोषमणिपुष्पकौ ॥१६॥</string>
+    <string name="ssloka1017">काश्यश्च परमेष्वासः शिखण्डी च महारथः ।\n
+धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ॥१७॥</string>
+    <string name="ssloka1018">द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते ।\n
+सौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ॥१८॥</string>
+    <string name="ssloka1019">स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् ।\n
+नभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन् ॥१९॥</string>
+    <string name="ssloka1020">अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः ।\n
+प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः ।</string>
+    <string name="ssloka1021">हृषीकेशं तदा वाक्यमिदमाह महीपते\n
+अर्जुन उवाच\n
+        सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ।\n</string>
+    <string name="ssloka1022">यावदेतान्निरिक्षेऽहं योद्‌धुकामानवस्थितान्\n
+कैर्मया सह योद्धव्यमस्मिन्रणसमुद्यमे ॥२२॥</string>
+    <string name="ssloka1023">योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।\n
+धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ॥२३॥</string>
+    <string name="ssloka1024">सञ्जय उवाच\n
+एवमुक्तो हृषीकेशो गुडाकेशेन भारत ।\n
+सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्   ॥२४॥</string>
+    <string name="ssloka1025">भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।\n
+उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ॥२५॥</string>
+    <string name="ssloka1026">तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् ।\n
+आचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ||</string>
+    <string name="ssloka1027">श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि\n
+तान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ।</string>
+    <string name="ssloka1028">कृपया परयाविष्टो विषीदन्निदमब्रवीत् \n
+अर्जुन उवाच\n
+दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ।</string>
+    <string name="ssloka1029">सीदन्ति मम गात्राणि मुखं च परिशुष्यति ॥२८॥\n
+वेपथुश्च शरीरे मे रोमहर्षश्च जायते ।</string>
+    <string name="ssloka1030">गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते |\n
+न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ||</string>
+    <string name="ssloka1031">निमित्तानि च पश्यामि विपरीतानि केशव \n
+न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||</string>
+    <string name="ssloka1032">न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च \n
+किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ।</string>
+    <string name="ssloka1033">येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च\n
+त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ।</string>
+    <string name="ssloka1034">आचार्याः पितरः पुत्रास्तथैव च पितामहाः |\n
+मातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ||</string>
+    <string name="ssloka1035">एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन \n
+अपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ।</string>
+    <string name="ssloka1036">निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन ॥३५॥
+पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ||</string>
+    <string name="ssloka1037">तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्सबान्धवान् ।\n
+स्वजनं हि कथं हत्वा सुखिनः स्याम माधव ॥</string>
+    <string name="ssloka1038">यद्यप्येते न पश्यन्ति लोभोपहतचेतसः ।\n
+कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ॥</string>
+    <string name="ssloka1039">कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् ।\n
+        कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ॥</string>
+    <string name="ssloka1040">कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ।\n
+धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ॥</string>
+    <string name="ssloka1041">अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः ।\n
+स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ॥</string>
+    <string name="ssloka1042">सङ्करो नरकायैव कुलघ्नानां कुलस्य च ।\n
+पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ॥४१</string>
+    <string name="ssloka1043">दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः ।\n
+उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ॥४२॥</string>
+    <string name="ssloka1044">उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन ।\n
+नरकेऽनियतं वासो भवतीत्यनुशुश्रुम ॥४३॥</string>
+    <string name="ssloka1045">अहो बत महत्पापं कर्तुं व्यवसिता वयम् ।\n
+यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ॥४४॥</string>
+    <string name="ssloka1046">यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः ।\n
+धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ॥४५॥</string>
+    <string name="ssloka1047">सञ्जय उवाच\n
+एवमुक्त्वार्जुनः संख्ये रथोपस्थ उपाविशत् ।\n
+विसृज्य सशरं चापं शोकसंविग्नमानसः ॥४६॥</string>
+
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+
+</resources>
